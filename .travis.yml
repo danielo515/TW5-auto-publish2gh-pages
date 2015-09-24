@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "node"
+before_script:
+  - npm install -g tiddlywiki
+script: tiddlywiki ./*wiki --build
+
+after_success:
+  - bash ./publish.sh
+
+branches:
+  only:
+    - master
