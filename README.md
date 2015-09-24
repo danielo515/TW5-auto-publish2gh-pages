@@ -3,9 +3,35 @@ The list of pre-requisites is quite small, and you only need to fit them once
 * A [Github](https://github.com) account
 * A [Travis-ci](https://travis-ci.org/ "go to travis site") account
 
-# Setup
-1. Fork this repository. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page ![Fork button](/../screenshots/fork.png?raw=true "Fork button")
+# First time setup
+This are the steps required for the first time setup. Once you have completed all the steps listed here for the first time it will be much faster to just add new wikis.
+## Github setup
+1. We have to create a `Personal access token` to allow our publish scripts to push to our github account. This is only needed on the first time setup. Go to [Github's tokens management page](https://github.com/settings/tokens)
+2. Create a new token clicking on `Generate new token`
+3. Provide a meaningful token description. **This is very important** because it will be the only clue you will have to identify the token usage.
+4. Make sure `repo` and `public_repo` options are selected
+5. Click on `Generate token`. Here is an overview of this step:
+![Generate token](/../screenshots/github-token.png?raw=true)
+6. Github will generate an unique token. **Take note of it now because you will not have any other opportinity!!**
+
+## Creating the first wiki
+1. Fork this repository. This step will be necessary on every new wiki. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page:
+![Fork button](/../screenshots/fork.png?raw=true "Fork button")
+2. Once you have forked the repository, you can rename it to fit your needs.
 2.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+3. If this is the first time you are using Travis just authorize the application to access your github account.
+2. Once you have accessed your Travis account you will be directed to your dashboard.
+3. On the left side of your dashboard you should have a list of the repositories under Travis management. At the first time this list should be empty.
+4. Click the plus sign next to `My Repositories` to put the forked repository under Travis management:
+![Add Repository](/../screenshots/Travis-CI_addRepo.png?raw=true "Add repo")
+5. You will be redirected to your profile. Here you have to locate the repository you have just forked and activate the "switch" to put it under Travis management. This should be easy because Travis provides an explanatory screenshot.
+6. If you don't find the repository you are looking for, click the `Sync` button to refresh the list of repositories:
+![Add Repository](/../screenshots/Travis-CI_sync.png?raw=true "Add repo")
+7. In our example we are activating this github repository:
+![Activate Repository](/../screenshots/Travis-CI_activate.png?raw=true)
+8. Now it's time to setup the global variables required by our build scripts. To do so click on the gear icon next to the "activate" switch:
+![config Repository](/../screenshots/Travis-CI_config.png?raw=true)
+
 
 
 
