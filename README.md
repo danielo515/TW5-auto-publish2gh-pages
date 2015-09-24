@@ -66,7 +66,8 @@ This are the steps required for the first time setup. Once you have completed al
     ![Token variable](/../screenshots/Travis-CI_GH_TOKEN.png?raw=true)
     3. Follow the exact same process to add `GH_EMAIL` variable. This should be the email you have used to register your account on github. After this process you should see something like this:
     ![Variables Setup](/../screenshots/Travis-CI_Variables.png?raw=true)
-13. You can now switch to `current` tab to see what is going on during build process. The build process happens every time you push a change to your repository. An ongoing build looks like this:
+    4. Changes are sabed **automatically** so at this point we are done with configuration and can switch to `current` tab.
+13. Switch to `current` tab to see what is going on during build process. The build process happens **every time you push a change to your repository** and not before. An ongoing build looks like this:
 ![Building](/../screenshots/Travis-CI_Building.png?raw=true)
 14. Now you are ready to go. Edit any file or create any new file **your forked repository** and push the changes to trigger a build. You can do this directly from Github. For more details about this process see the [`Editing tiddlers` section](#editing-tiddlers)
 15. Once the build **has finished successfully** you can just visit `<your-git-username>.github.io/your-repo-name` to see the results of your build
