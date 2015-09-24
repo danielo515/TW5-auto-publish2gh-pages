@@ -31,9 +31,16 @@ This are the steps required for the first time setup. Once you have completed al
 ![Activate Repository](/../screenshots/Travis-CI_activate.png?raw=true)
 8. Now it's time to setup the global variables required by our build scripts. To do so click on the gear icon next to the "activate" switch:
 ![config Repository](/../screenshots/Travis-CI_config.png?raw=true)
-
-
-
+11. You should be now at the Settings page of the repository. Leave the General settings as they are by default.
+12. On the Environment Variables section We are going to add the required variables.
+    1. First add `GH_REF`, which is the url of **your forked repository without the https prefix and with a `.git` extension. For this variable you can set to `on` the `Display value in build log`, so you can check that it is correct on every build. Click add
+    ![first variable](/../screenshots/Travis-CI_GH_REF.png?raw=true)
+    2. Follow the same process to add the `GH_TOKEN` variable, but this time make sure that `Display value in build log` is set to off for security reasons. Paste here the Github **token we have generated previously**:
+    ![Token variable](/../screenshots/Travis-CI_GH_TOKEN.png?raw=true)
+    3. Follow the exact same process to add `GH_EMAIL` variable. This should be the email you have used to register your account on github. After this process you should see something like this:
+    ![Variables Setup](/../screenshots/Travis-CI_Variables.png?raw=true)
+13. You can now switch to `current` tab to see what is going on during build process. The build process happens every time you push a change to your repository.
+13. Now you are ready to go. Edit any file or create any new file **your forked repository** and push the changes to trigger a build. You can do this directly from Github. For more details about this process see the [`Editing tiddlers` section](#Editing tiddlers)
 
 # Editing tiddlers
 You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki sintax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
