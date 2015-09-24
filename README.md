@@ -4,9 +4,8 @@ The list of pre-requisites is quite small, and you only need to fit them once
 * A [Travis-ci](https://travis-ci.org/ "go to travis site") account
 
 # Setup
-1. Fork this repository. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page <span class="octicon octicon-repo-forked"></span>
-2. item
-3.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+1. Fork this repository. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page ![Fork button](/../screenshots/fork.png?raw=true "Fork button")
+2.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
 
 
 
