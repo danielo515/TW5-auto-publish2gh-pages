@@ -1,0 +1,24 @@
+{
+	"plugins": [
+          "tiddlywiki/filesystem",
+          "tiddlywiki/tiddlyweb",
+          "tiddlywiki/codemirror",
+          "tiddlywiki/highlight"
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+	"languages": [
+		"en-US"
+	],
+	"build": {
+		"index": [
+			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain"],
+		"favicon": [
+			"--savetiddler","$:/favicon.ico","favicon.ico"],
+		"readme": [
+			"--rendertiddler","ReadMe","readme.md","text/html",
+			"--rendertiddler","License","license.md","text/html"]
+	}
+}
