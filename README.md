@@ -1,7 +1,19 @@
+# Requisites
+The list of pre-requisites is quite small, and you only need to fit them once
+* A [Github](https://github.com) account
+* A [Travis-ci](https://travis-ci.org/ "go to travis site") account
+
+# Setup
+1. Fork this repository. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page <span class="octicon octicon-repo-forked"></span>
+2. item
+3.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+
+
+
 # Editing tiddlers
 You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki sintax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
 
-I recommend you to use prose:
+I recommend you to use prose, which is the tool I have used to edit this README:
 
 ## Prose
 1. visit http://prose.io/
