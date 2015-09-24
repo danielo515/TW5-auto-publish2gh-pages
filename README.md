@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Requisites](#requisites)
+- [First time setup](#first-time-setup)
+  - [Github setup](#github-setup)
+  - [Creating the first wiki](#creating-the-first-wiki)
+- [Creating another wiki](#creating-another-wiki)
+- [Editing tiddlers](#editing-tiddlers)
+  - [Prose](#prose)
+  - [Dilinger](#dilinger)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 We all love Github pages. They are an easy,reliable and cheap way to host static sites. [TiddlyWiki](tiddlywiki.com) is a single page web application wiki that can be hosted as a single html file. It is an awesome unique application, and I strongly recommend you to check it out at [TiddlyWiki.com](tiddlywiki.com). The problem with it is that there is not an easy fast way to host a tiddlywiki file on github pages... until now. 
 
