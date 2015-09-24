@@ -1,3 +1,17 @@
+
+We all love Github pages. They are an easy,reliable and cheap way to host static sites. [TiddlyWiki](tiddlywiki.com) is a single page web application wiki that can be hosted as a single html file. It is an awesome unique application, and I strongly recommend you to check it out at [TiddlyWiki.com](tiddlywiki.com). The problem with it is that there is not an easy fast way to host a tiddlywiki file on github pages... until now. 
+
+This repository is **both a template and a set of instructions** to host a tiddlywiki on your own Github pages repository. Following this instructions you will be able have your own wiki up and runing in less than 10 minutes **without** any `git` or Github Knowledge and **without installing** any software on your computer.
+
+Using this work-flow has several advantages:
+1. Github pages are absolutely **free** and reliable
+2. Tiddlers are built from **individual `.tid` files**
+3. Built in **changes history and diff**
+4. Github allows you to edit and add files directly from their web interface, so you don't have to install anything in your computer.
+3. No `git` or Github Knowledge required
+
+
+
 # Requisites
 The list of pre-requisites is quite small, and you only need to fit them once
 * A [Github](https://github.com) account
@@ -24,10 +38,10 @@ This are the steps required for the first time setup. Once you have completed al
 3. On the left side of your dashboard you should have a list of the repositories under Travis management. At the first time this list should be empty.
 4. Click the plus sign next to `My Repositories` to put the forked repository under Travis management:
 ![Add Repository](/../screenshots/Travis-CI_addRepo.png?raw=true "Add repo")
-5. You will be redirected to your profile. Here you have to locate the repository you have just forked and activate the "switch" to put it under Travis management. This should be easy because Travis provides an explanatory screenshot.
+5. You will be redirected to your profile. Here you have to locate the repository you have just forked and activate the "switch" to put it under Travis management. This should be easy because Travis provides an explanatory screen shot.
 6. If you don't find the repository you are looking for, click the `Sync` button to refresh the list of repositories:
 ![Add Repository](/../screenshots/Travis-CI_sync.png?raw=true "Add repo")
-7. In our example we are activating this github repository:
+7. In our example we are activating this Github repository:
 ![Activate Repository](/../screenshots/Travis-CI_activate.png?raw=true)
 8. Now it's time to setup the global variables required by our build scripts. To do so click on the gear icon next to the "activate" switch:
 ![config Repository](/../screenshots/Travis-CI_config.png?raw=true)
@@ -41,7 +55,22 @@ This are the steps required for the first time setup. Once you have completed al
     ![Variables Setup](/../screenshots/Travis-CI_Variables.png?raw=true)
 13. You can now switch to `current` tab to see what is going on during build process. The build process happens every time you push a change to your repository. An ongoing build looks like this:
 ![Building](/../screenshots/Travis-CI_Building.png?raw=true)
-13. Now you are ready to go. Edit any file or create any new file **your forked repository** and push the changes to trigger a build. You can do this directly from Github. For more details about this process see the [`Editing tiddlers` section](#Editing tiddlers)
+14. Now you are ready to go. Edit any file or create any new file **your forked repository** and push the changes to trigger a build. You can do this directly from Github. For more details about this process see the [`Editing tiddlers` section](#editing-tiddlers)
+15. Once the build **has finished successfully** you can just visit `<your-git-username>.github.io/your-repo-name` to see the results of your build
+
+# Creating another wiki
+Once you have completed the first time setup, it is much easier to setup another wiki. Here is a summary of the required Steps:
+1. Fork this repository: 
+![Fork button](/../screenshots/fork.png?raw=true "Fork button")
+2. Rename the repository to fit your needs.
+3.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+4. On the left side of your dashboard click the plus sign next to `My Repositories` to put the forked repository under Travis management:
+![Add Repository](/../screenshots/Travis-CI_addRepo.png?raw=true "Add repo")
+5. Locate the repository **you have just forked** and activate the "switch" to put it under Travis management.
+6. If you don't find the repository you are looking for, click the `Sync` button to refresh the list of repositories:
+![Add Repository](/../screenshots/Travis-CI_sync.png?raw=true "Add repo")
+7. Setup the global variables
+8. Edit/add the required tiddlers and make a push. This can be done directly on github.
 
 # Editing tiddlers
 You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki sintax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
