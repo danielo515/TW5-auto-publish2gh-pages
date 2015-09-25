@@ -79,7 +79,7 @@ Once you have completed the first time setup, it is much easier to setup another
 1. Fork this repository: 
 ![Fork button](/../screenshots/fork.png?raw=true "Fork button")
 2. Rename the repository to fit your needs.
-3.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+3.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sign in using your github account.
 4. On the left side of your dashboard click the plus sign next to `My Repositories` to put the forked repository under Travis management:
 ![Add Repository](/../screenshots/Travis-CI_addRepo.png?raw=true "Add repo")
 5. Locate the repository **you have just forked** and activate the "switch" to put it under Travis management.
