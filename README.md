@@ -47,7 +47,7 @@ This are the steps required for the first time setup. Once you have completed al
 1. Fork this repository. This step will be necessary on every new wiki. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page:
 ![Fork button](/../screenshots/fork.png?raw=true "Fork button")
 2. Once you have forked the repository, you can rename it to fit your needs.
-2.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sing in using your github account.
+2.  Go to [Travis-ci](https://travis-ci.org/ "go to travis site") and sign in using your github account.
 3. If this is the first time you are using Travis just authorize the application to access your github account.
 2. Once you have accessed your Travis account you will be directed to your dashboard.
 3. On the left side of your dashboard you should have a list of the repositories under Travis management. At the first time this list should be empty.
@@ -68,7 +68,7 @@ This are the steps required for the first time setup. Once you have completed al
     ![Token variable](/../screenshots/Travis-CI_GH_TOKEN.png?raw=true)
     3. Follow the exact same process to add `GH_EMAIL` variable. This should be the email you have used to register your account on github. After this process you should see something like this:
     ![Variables Setup](/../screenshots/Travis-CI_Variables.png?raw=true)
-    4. Changes are sabed **automatically** so at this point we are done with configuration and can switch to `current` tab.
+    4. Changes are saved **automatically** so at this point we are done with configuration and can switch to `current` tab.
 13. Switch to `current` tab to see what is going on during build process. The build process happens **every time you push a change to your repository** and not before. An ongoing build looks like this:
 ![Building](/../screenshots/Travis-CI_Building.png?raw=true)
 14. Now you are ready to go. Edit any file or create any new file **your forked repository** and push the changes to trigger a build. You can do this directly from Github. For more details about this process see the [`Editing tiddlers` section](#editing-tiddlers)
