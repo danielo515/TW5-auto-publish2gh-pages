@@ -1,2 +1,3 @@
 Thu 02 Nov 2017: Forked from TW5-auto-publish2gh-pages project.
-Thu 09 Nov 2017: Renamed as share-project-proposal
+Thu 09 Nov 2017: Renamed as share-project-proposal.
+Thu 09 Nov 2017: Test if file changes trigger Travis-CI build.
