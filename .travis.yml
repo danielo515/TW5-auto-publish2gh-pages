@@ -1,9 +1,14 @@
 language: node_js
 node_js:
   - "node"
+cache:
+  directories:
+    - "node_modules"
 before_script:
   - npm install -g tiddlywiki
-script: tiddlywiki ./*wiki --build
+script: 
+  - tiddlywiki --load ./wiki ./wiki_example.html
+  - tiddlywiki ./wiki --build
 
 after_success:
   - bash ./publish.sh
@@ -11,3 +16,4 @@ after_success:
 branches:
   only:
     - master
+    - /feature.*/
