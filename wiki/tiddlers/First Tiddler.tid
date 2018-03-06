@@ -1,0 +1,8 @@
+created: 20180306094416678
+modified: 20180306094539775
+tags: 
+title: First Tiddler
+type: text/vnd.tiddlywiki
+
+This is the first Tiddler that will be visible on https://samuelwiechmann.github.io/understand
+I am creating it on a local node.js server and will push this update to my github repository. Travis CI will then start building the new site.
