@@ -1,8 +1,8 @@
 created: 20180305100339711
-modified: 20180306112951081
+modified: 20180306153108182
 priority: 1
 scope: [tag[topic]tag[5]]
-style: {"color":{"background":"rgba(233,208,252,1)"}}
+style: {"color":{"background":"rgba(214,222,252,1)","border":"rgba(159,167,168,1)"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:sciencetopic5
 type: text/vnd.tiddlywiki
 

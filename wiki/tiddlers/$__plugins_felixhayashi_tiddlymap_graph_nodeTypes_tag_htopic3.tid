@@ -1,0 +1,8 @@
+created: 20180306152540812
+modified: 20180306155119741
+priority: 1
+scope: [tag[topic]tag[humanities]tag[3]]
+style: {"font":{"size":28},"color":{"border":"rgba(133,131,135,1)","background":"rgba(242,227,240,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:htopic3
+type: text/vnd.tiddlywiki
+

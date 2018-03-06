@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180306142638228
+modified: 20180306155441719
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s1+c/map
 type: text/vnd.tiddlywiki
 
@@ -38,12 +38,13 @@ type: text/vnd.tiddlywiki
   "y": 4511
  },
  "245a2020-d4d5-4d7e-a5aa-eb5cdc9b2f43": {
+  "color": {},
   "x": 3035,
   "y": 4256
  },
  "95353a5a-1017-4513-8eaf-d97bee5b947a": {
-  "x": 3954,
-  "y": 2839
+  "x": 3871,
+  "y": 2670
  },
  "2de79224-c287-444d-af93-01e108e69c1b": {
   "x": 4862,
@@ -62,8 +63,8 @@ type: text/vnd.tiddlywiki
   "y": 3828
  },
  "2bcf7eee-a02b-41a5-90c1-b1b0e94865d4": {
-  "x": 3399,
-  "y": 2757
+  "x": 3375,
+  "y": 2999
  },
  "c8ad4a5a-3eae-4cce-a3e0-ddb16d9c9fcc": {
   "x": 2694,
@@ -98,12 +99,12 @@ type: text/vnd.tiddlywiki
   "y": 3230
  },
  "b087a093-0194-4cc9-ba88-001b483abdea": {
-  "x": 5331,
-  "y": 3217
+  "x": 5396,
+  "y": 3251
  },
  "63528dd8-364e-4294-9fe6-77b2f1c82119": {
-  "x": 3748,
-  "y": 2649
+  "x": 3758,
+  "y": 2594
  },
  "7ad72759-be76-47fe-9a1c-f0d4199edcbb": {
   "x": 2131,
@@ -398,12 +399,12 @@ type: text/vnd.tiddlywiki
   "y": 2420
  },
  "1dc21f0b-4a84-4e44-8e68-8aec1c0ef0e1": {
-  "x": 3553,
-  "y": 2355
+  "x": 3677,
+  "y": 2498
  },
  "5a391b7f-07bf-422b-b6c9-90eb6276e787": {
-  "x": 3642,
-  "y": 2424
+  "x": 3675,
+  "y": 2429
  },
  "3f9ef423-669b-43da-92b2-10012bd4d349": {
   "x": 3263,
@@ -422,11 +423,23 @@ type: text/vnd.tiddlywiki
   "y": 3296
  },
  "60eb75ea-05f9-4de2-9101-7f50d4cee718": {
-  "x": 3783,
-  "y": 3207
+  "x": 3802,
+  "y": 3264
  },
  "b3b976f2-ddf7-4fec-9918-608f245ead4c": {
-  "x": 3479,
-  "y": 2416
+  "x": 3480,
+  "y": 2346
+ },
+ "8b8b123b-38d5-4c66-8bfc-384a462b5cc7": {
+  "x": 3029,
+  "y": 2250
+ },
+ "672ce2a2-1f67-4ae5-a727-ad576a8ef707": {
+  "x": 2495,
+  "y": 3106
+ },
+ "287fadec-fdd4-4a29-912b-e86d6ed9abfb": {
+  "x": 2640,
+  "y": 3069
  }
 }

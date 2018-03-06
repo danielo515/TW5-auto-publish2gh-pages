@@ -1,8 +1,8 @@
 created: 20180303142236537
-modified: 20180306103241822
+modified: 20180306154940539
 tags: applied science topic 3
 title: Aeronautical Engineering
-tmap.edges: {"5cda6060-6cfa-4326-b07f-ede8c02ea08e":{"to":"88aea68f-ddf8-48fd-9dba-cf78b0bf0537","type":"subclass of"}}
+tmap.edges: {"5cda6060-6cfa-4326-b07f-ede8c02ea08e":{"to":"88aea68f-ddf8-48fd-9dba-cf78b0bf0537","type":"subclass of"},"c6ea878d-b82d-4bb9-93e7-1dc1c0e4c56d":{"to":"136bd070-5596-4f51-8cd2-39a427d7ef14","type":"subclass of"}}
 tmap.id: e17b93b9-e44a-4a48-a5c7-dc8291661978
 type: text/vnd.tiddlywiki
 
