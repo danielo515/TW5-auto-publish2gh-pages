@@ -1,0 +1,10 @@
+config.background_image: 
+config.raster: 
+config.vis: {"edges":{"font":{"size":10}},"nodes":{"shadow":{"x":-3,"y":-3},"shapeProperties":{},"shape":"box"}}
+created: 20180301181023522
+id: eba66649-3b76-4c98-9d51-79bcf6bf9369
+isview: true
+modified: 20180306112538087
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s1+c
+type: text/vnd.tiddlywiki
+
