@@ -1,0 +1,19 @@
+created: 20180306132544099
+modified: 20180306133356417
+title: Using this Wiki
+tmap.id: cb099ddf-93be-48bf-bbe8-9ef99a740480
+type: text/vnd.tiddlywiki
+
+"""
+There is a lot to learn about [[TiddlyWiki|https://tiddlywiki.com/]].
+First of all: it's a great personal tool and I really appreciate it.
+The idea behind Tiddlers is to make information as reusable and accessible as possible.
+Now to the Usage: 
+Next to the "Map"-Tab one the right are four more Tabs.
+The "Open"-Tab shows all Tiddlers that are currently opened in the story river. 
+The "Recent"-Tab shows all recently opened Tiddlers.
+The "Tools"-Tab shows all tools, including those that are currently not diplayed in the toolbar.
+The "More"-Tab shows kind of everything and has one Tab with All Tiddlers, one with all Tags, one with all System Tiddlers, and so on. 
+The search bar has a small search icon that you can use to invoke a advanced search. 
+The gear in the toolbar opens the [[ControlPanel|$:/ControlPanel]] where most of the settings can be made.
+
