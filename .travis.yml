@@ -6,7 +6,7 @@ before_script:
 script: tiddlywiki ./*wiki --build
         --savetiddlers [is[image]] images
         --setfield [is[image]] _canonical_uri $:/core/templates/canonical-uri-external-image text/plain
-        --setfielt [is[image]] test "" text/plain
+        --setfield [is[image]] test "" text/plain
 
 after_success:
   - bash ./publish.sh
