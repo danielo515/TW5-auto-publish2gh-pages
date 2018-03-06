@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 created: 20180306105904640
 list: HelloThere [[First Tiddler]] [[Second Tiddler]]
 modified: 20180306105904640
+=======
+created: 20180306103239213
+list: $:/Import HelloThere [[First Tiddler]] [[Second Tiddler]]
+modified: 20180306103239213
+>>>>>>> parent of ffd9e29... Bungee Launch upload
 title: $:/StoryList
 type: text/vnd.tiddlywiki
 
