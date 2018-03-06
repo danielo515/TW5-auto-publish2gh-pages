@@ -1,0 +1,9 @@
+created: 20180222130546823
+modified: 20180306103242094
+tags: organism person people 1 topic
+title: Humans
+tmap.edges: {"be5df33b-18a1-41b0-b803-a1874738ac0f":{"to":"1071da49-4685-45cb-89f6-512f3165c1f2","type":"form"},"86e1a7d2-1440-493a-a3aa-d42b189c0a62":{"to":"33616a59-3a33-4fab-b18f-19e26fc01346","type":"form"},"30c24e12-7153-4dc1-a6a3-5c7755c06aff":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"},"175c233f-ac47-4ea6-804e-549703d62512":{"to":"287fadec-fdd4-4a29-912b-e86d6ed9abfb","type":"sublass of"}}
+tmap.id: 7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09
+tmap.style: {}
+type: text/vnd.tiddlywiki
+

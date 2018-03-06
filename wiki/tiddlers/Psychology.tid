@@ -1,0 +1,8 @@
+created: 20180301193343602
+modified: 20180306103242002
+tags: science topic social medicine 4
+title: Psychology
+tmap.edges: {"727f61bd-cc50-423b-9be7-35bb9bf4e736":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"studies"},"a04b2fbe-b6f4-4013-bd7f-c4103e09be58":{"to":"f19565eb-4457-41e5-93f6-a405d456bd3d","type":"subclass of"},"0869c887-562e-4a60-803e-1994e10e263e":{"to":"18b910ea-ca02-4d63-b25f-01abc44222cc","type":"subclass of"}}
+tmap.id: 626cdba3-2214-48d2-989a-86e1e932dc41
+type: text/vnd.tiddlywiki
+

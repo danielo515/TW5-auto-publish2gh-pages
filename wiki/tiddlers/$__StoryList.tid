@@ -1,6 +1,6 @@
-created: 20180306102313576
-list: HelloThere [[First Tiddler]] [[Second Tiddler]]
-modified: 20180306102313576
+created: 20180306103239213
+list: $:/Import HelloThere [[First Tiddler]] [[Second Tiddler]]
+modified: 20180306103239213
 title: $:/StoryList
 type: text/vnd.tiddlywiki
 
