@@ -7,3 +7,4 @@ type: text/vnd.tiddlywiki
 This is the demo wiki built automatically by [[travis-ci|http://travis-ci.org/]] following the instructions at
 the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]
 This is another test, does editing from the browser work?
+Yes, it works. But does reverse editing via Github work?
