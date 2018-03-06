@@ -1,5 +1,5 @@
 created: 20180306133810654
-modified: 20180306140413573
+modified: 20180306225141202
 title: $:/plugins/felixhayashi/tiddlymap/config/sys/user
 type: application/json
 
@@ -22,5 +22,5 @@ type: application/json
     "editorMenuBar.showNeighScopeButton": "true",
     "editorMenuBar.showRasterMenuButton": "true",
     "editorMenuBar.showScreenshotButton": "true",
-    "defaultView": "s1+c"
+    "defaultView": "s1+c_floating"
 }
