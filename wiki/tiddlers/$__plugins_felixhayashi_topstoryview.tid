@@ -4,7 +4,7 @@ created: 20180301181023802
 dependents: 
 description: TopStoryView – Always scroll navigated tiddlers to the top
 list: Configuration License Readme
-modified: 20180306100647161
+modified: 20180306102311063
 plugin-type: plugin
 released: 
 source: https://github.com/felixhayashi/TW5-TopStoryView
