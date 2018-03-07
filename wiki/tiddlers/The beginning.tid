@@ -1,5 +1,5 @@
 created: 20180307105630965
-modified: 20180307111959190
+modified: 20180307143250537
 title: The beginning
 tmap.id: 13be7aac-f1c2-4478-ad9a-f763cbd42f24
 type: text/vnd.tiddlywiki
@@ -23,4 +23,16 @@ Later on I discovered a quite similar principle originally formulated by Alfred 
 This principle, or law, or whatever you want to call it, was so fascinating to me that I decided to stick with it. The next step was to think about [[What to do with this principle?]] 
 The most obvious thing that needed a better flow and that I could manipulate was information. And I already had a lot of good information. So I started curating more and more content until I finally had to think about how to organize and structure all of it.
 
+First I started ordering the content neatly in an interactive pdf-document. Coming back after christmas holidays my professor and costudents expressed the desire to see the connections between the topics I had just added as catchphrases into the view.
+
+Finding out that Adobe InDesign was not suitable for making flexible connections between keywords I began searching for beautiful mindmapping tools. I quickly came across the concept of [[concept maps]].
+
+The best tool I could find was Cmap [[Tools]] by the [[IHMC]] in Florida. I used it to build my first holistic concept map.
+
 From this point on Dino Karabeg's theories on Information Design have served me well. They provide interesting visions on how information should be structured to facilitate the change we need to be able to live well on earth in a sustainable way.
+
+The next logical step was to think about a possible connection between those very nice concept maps and a content repository that could be easily edited (sounds like a wiki). 
+
+For a few weeks I thought it would be impossible for me to connect Cmap Tools (which is free to use but not OpenSource) to some kind of Wiki Software. It turned out while this might be true, that some genius (i suppose the one of [[felixhayashi]]) had already created a solution for my problem and that the Wiki software that TiddlyMap runs inside was also a great shot.
+
+So here I am writing this documentation and building a Wiki that includes a concept map! 

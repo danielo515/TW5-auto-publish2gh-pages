@@ -1,8 +1,8 @@
 created: 20180304220633563
-modified: 20180306103241940
+modified: 20180307170819253
 tags: animals organism 3 group topic
 title: Vertebrates
-tmap.edges: {"9e63102d-4286-4306-a4b1-3aac09790c78":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"}}
+tmap.edges: {"9e63102d-4286-4306-a4b1-3aac09790c78":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"},"997660e6-9e31-429c-9f6f-fb0c92c0d147":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"},"7b37279a-20ae-4bab-8a76-900136b618f0":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"can experience"}}
 tmap.id: 672ce2a2-1f67-4ae5-a727-ad576a8ef707
 type: text/vnd.tiddlywiki
 

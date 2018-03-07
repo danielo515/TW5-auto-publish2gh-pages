@@ -1,8 +1,8 @@
 created: 20180301152011101
-modified: 20180306103241832
+modified: 20180307163639710
 tags: science topic 4 earth
 title: Geology
-tmap.edges: {"271bc0d2-40df-4f27-9630-f276722a4fe3":{"to":"9b27dceb-c63e-4895-8a59-3e1e23da749b","type":"subclass of"}}
+tmap.edges: {"271bc0d2-40df-4f27-9630-f276722a4fe3":{"to":"9b27dceb-c63e-4895-8a59-3e1e23da749b","type":"subclass of"},"8f3139c6-3b4b-4214-a25b-fda54e16b313":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"studies"}}
 tmap.id: 7ad72759-be76-47fe-9a1c-f0d4199edcbb
 type: text/vnd.tiddlywiki
 

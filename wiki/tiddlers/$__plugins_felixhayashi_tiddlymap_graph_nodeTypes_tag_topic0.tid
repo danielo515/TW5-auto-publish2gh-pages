@@ -1,8 +1,8 @@
 created: 20180301194715054
-modified: 20180306153510538
+modified: 20180307201326660
 priority: 1
 scope: [tag[topic]tag[0]]
-style: {"font":{"size":65},"shadow":{"enabled":false},"color":{"background":"rgba(252,249,241,1)","border":"rgba(161,164,165,1)"},"borderWidth":3}
+style: {"font":{"size":65},"shadow":{"enabled":false},"color":{"background":"rgba(252,249,241,1)","border":"rgba(161,164,165,1)"},"borderWidth":1}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:topic0
 type: text/vnd.tiddlywiki
 

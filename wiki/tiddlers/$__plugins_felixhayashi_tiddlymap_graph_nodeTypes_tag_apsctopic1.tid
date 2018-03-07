@@ -1,8 +1,8 @@
 created: 20180306150620879
-modified: 20180306153846384
+modified: 20180307201423860
 priority: 1
 scope: [tag[applied]tag[science]tag[topic]tag[1]]
-style: {"font":{"size":48},"color":{"border":"rgba(91,107,91,1)","background":"rgba(120,252,196,1)"},"borderWidth":2,"borderWidthSelected":4}
+style: {"font":{"size":48},"color":{"border":"rgba(91,107,91,1)","background":"rgba(120,252,196,1)"},"borderWidth":1,"borderWidthSelected":2}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:apsctopic1
 type: text/vnd.tiddlywiki
 

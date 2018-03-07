@@ -1,0 +1,8 @@
+created: 20180307163946133
+modified: 20180307201154046
+priority: 2
+scope: [tag[topic]tag[4]]
+style: {"color":{"border":"rgba(150,145,149,1)","background":"rgba(235,233,237,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:topic4
+type: text/vnd.tiddlywiki
+

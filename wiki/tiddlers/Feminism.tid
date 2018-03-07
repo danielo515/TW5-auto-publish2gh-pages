@@ -1,8 +1,8 @@
 created: 20180305100231902
-modified: 20180306103241934
+modified: 20180307193802967
 tags: social science topic 5 humanism emancipation
 title: Feminism
-tmap.edges: {"b4625c9b-128a-4a95-9c08-aeb6feb27c80":{"to":"26ae8d23-b91c-4e9c-a8ff-b4de48b31936","type":"subclass of"}}
+tmap.edges: {"ee725d0b-14a9-4ae1-a072-30c2b4a834dc":{"to":"26ae8d23-b91c-4e9c-a8ff-b4de48b31936","type":"topic of"},"f053412f-e520-4ef3-9a86-acb05bf23250":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"topic of"}}
 tmap.id: 28f9a7c0-2e7d-43f1-abd9-e351b18412c8
 type: text/vnd.tiddlywiki
 

@@ -1,8 +1,8 @@
 created: 20180301193343602
-modified: 20180306103242002
+modified: 20180307194426518
 tags: science topic social medicine 4
 title: Psychology
-tmap.edges: {"727f61bd-cc50-423b-9be7-35bb9bf4e736":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"studies"},"a04b2fbe-b6f4-4013-bd7f-c4103e09be58":{"to":"f19565eb-4457-41e5-93f6-a405d456bd3d","type":"subclass of"},"0869c887-562e-4a60-803e-1994e10e263e":{"to":"18b910ea-ca02-4d63-b25f-01abc44222cc","type":"subclass of"}}
+tmap.edges: {"727f61bd-cc50-423b-9be7-35bb9bf4e736":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"studies"},"a04b2fbe-b6f4-4013-bd7f-c4103e09be58":{"to":"f19565eb-4457-41e5-93f6-a405d456bd3d","type":"subclass of"},"0869c887-562e-4a60-803e-1994e10e263e":{"to":"18b910ea-ca02-4d63-b25f-01abc44222cc","type":"subclass of"},"1848ea10-0861-4222-a298-6efe3224ac27":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"studies"},"64f0f675-b9ec-43af-8d73-269bd8fe0e82":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"should increase"},"ae3814e9-da60-48f9-906c-4a28606af9c8":{"to":"4062ca27-0fd3-46eb-8aaf-62fcd2dbdb59","type":"studies"},"29c0fa96-556a-45c0-9c92-bc3818e15522":{"to":"6bf232fc-5783-479c-8d2b-130ceb422ba3","type":"learns from"}}
 tmap.id: 626cdba3-2214-48d2-989a-86e1e932dc41
 type: text/vnd.tiddlywiki
 

@@ -1,8 +1,8 @@
 created: 20180303122849537
-modified: 20180306140430769
+modified: 20180307164705429
 tags: concept object topic 2 life
 title: Brain
-tmap.edges: {"fa85713d-c1d4-4776-9723-7f696889e2cf":{"to":"7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09","type":"subclass of"}}
+tmap.edges: {"e65410af-a3a0-4093-87ed-ebc1c6a8c2d1":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"creates"}}
 tmap.id: fbf1234b-7fe7-47d6-ada8-1162c7875c16
 type: text/vnd.tiddlywiki
 

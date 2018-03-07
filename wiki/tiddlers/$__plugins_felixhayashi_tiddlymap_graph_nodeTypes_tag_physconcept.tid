@@ -1,0 +1,8 @@
+created: 20180307162300886
+modified: 20180307162338732
+priority: 1
+scope: [tag[physicalconcept]]
+style: {"color":{"border":"rgba(121,126,127,1)","background":"rgba(151,146,196,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:physconcept
+type: text/vnd.tiddlywiki
+

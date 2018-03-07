@@ -1,8 +1,8 @@
 created: 20180301152205925
-modified: 20180306103241908
+modified: 20180307194550162
 tags: science topic 4 stars universe physical
 title: Astronomy
-tmap.edges: {"25b8ea06-88ef-4271-bc0a-4bc363d9082d":{"to":"87f94bb0-7d28-412f-a5eb-7a0bcf671fc5","type":"subclass of"},"90c76327-a404-4e48-8199-d6fd798e1451":{"to":"a94709fb-de4b-4b7a-9637-f1514efddff2","type":"subclass of"},"4ca5e238-f5ab-4ef6-8be5-a2b8c20ed95b":{"to":"c85202a2-260b-4112-8d67-76292648e44e","type":"studies"},"0c323f44-d5d3-4bfd-acc0-18e12b51d849":{"to":"5b018c0e-9d1c-4497-bdd8-3b39082cacb6","type":"studies"}}
+tmap.edges: {"25b8ea06-88ef-4271-bc0a-4bc363d9082d":{"to":"87f94bb0-7d28-412f-a5eb-7a0bcf671fc5","type":"subclass of"},"90c76327-a404-4e48-8199-d6fd798e1451":{"to":"a94709fb-de4b-4b7a-9637-f1514efddff2","type":"subclass of"},"4ca5e238-f5ab-4ef6-8be5-a2b8c20ed95b":{"to":"c85202a2-260b-4112-8d67-76292648e44e","type":"studies"},"f138a90a-61fb-4b5a-9597-e64f0d4f570c":{"to":"940b9005-b141-4393-8a1c-9c8525bebd79","type":"studies"}}
 tmap.id: a20d1456-8947-45ff-b573-901b3d7879ab
 type: text/vnd.tiddlywiki
 
