@@ -1,0 +1,17 @@
+created: 20180307002706033
+modified: 20180307003938987
+tags: howto tiddlywiki
+title: Copy
+tmap.id: 3fb6e529-632c-4b2b-9997-c61a1c855d48
+type: text/vnd.tiddlywiki
+
+You can download this Wiki as a single-file Wiki by simply clicking the "Save Changes"-button. You can then open the html-file in your browser.
+
+
+The only problem is: Working with big network graphs appears to be quite slow in a single-file [[TiddlyWiki|https://tiddlywiki.com/]]  and runs much smoother when operating on a server. This wiki is hosted on Github Pages and built with Travis CI (CI stands for Continuous Integration).
+
+
+The easiest way to run your own copy on a server would be to just download the [[source repository|https://github.com/samuelwiechmann/understand2]] and run it locally [[on node.js|https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html]]. You could then use ~GitHub Desktop to create pull requests for your changes.
+
+
+If you want an online copy you can fork a copy to your ~GitHub-account and run it on your GitHub Pages via Travis CI.

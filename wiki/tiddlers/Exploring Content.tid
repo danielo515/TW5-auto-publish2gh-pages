@@ -1,13 +1,18 @@
 created: 20180306132040311
-modified: 20180306140259343
-tags: howto wiki
+modified: 20180307005050698
+tags: howto tiddlywiki
 title: Exploring Content
 tmap.id: ab787811-b757-4cce-b2b5-03fb61322b95
 type: text/vnd.tiddlywiki
 
-"""To explore the content of this wiki, get you an overview of the map on the right.
-The topics are ordered from left to right, from everything there is to me, a small part of everything. 
-Connected to topics of things that simply exist are the academic disciplines studying those things. 
-Connected to all those topics is content, most times represented with an image.
-Hovering the cursor over an image will show links and information corresponding to the content. Double clicking on an image will open the corresponding tiddler. You can also switch the viewer to half- or full-screen-mode.
-Using the dropdown-menu you can switch to another view.
+You probably noticed the map on the right. 
+The map contains all topics that were important enough to me to add them until now. 
+
+The map contains a basic progression of central topics bridging the gap between Me and the World as a whole. It reflects what topics are important to me and how I imagine their relations. 
+There is currently only my view, but the hope is that different views may help to view similar topics from different perspectives.
+
+
+Right now you can only switch to the free floating and to the originally structured view. 
+
+
+If you zoom in on a certain area you will recognize pictures linked to topics. They represent content of different kinds, mostly videos. Hovering the cursor over an image will show the link and corresponding information. Double clicking on an image will open the corresponding tiddler. You can also switch the viewer to half- or full-screen-mode.
