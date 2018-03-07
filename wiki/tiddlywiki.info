@@ -12,6 +12,12 @@
 	"languages": [
 		"en-US"
 	],
+<<<<<<< HEAD
+=======
+		
+	}
+	
+>>>>>>> origin/master
 	"build": {
 		"index": [
 			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain"],
