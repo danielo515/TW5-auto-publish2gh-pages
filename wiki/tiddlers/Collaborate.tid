@@ -1,8 +1,11 @@
 created: 20180307002451622
-modified: 20180307003750224
+modified: 20180307104402902
 tags: howto tiddlywiki
 title: Collaborate
 tmap.id: f621336b-ae92-410e-bf95-f27221f5c41c
 type: text/vnd.tiddlywiki
 
 If you want to add or update Tiddlers in this Wiki, simply save them as .tid-files, go to the [[GitHub source repository|https://github.com/samuelwiechmann/understand2]] and create a pull-request for those Tiddlers. You're welcome!
+
+
+There is even a simpler way to [[Improve this Wiki]] being tested!
