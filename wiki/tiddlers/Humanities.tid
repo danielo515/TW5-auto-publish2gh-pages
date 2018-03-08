@@ -1,5 +1,5 @@
 created: 20180301193728465
-modified: 20180306152450029
+modified: 20180308191003182
 tags: topic concept discipline 1 humanities
 title: Humanities
 tmap.edges: {"eec9d2a2-40bb-429b-8ccc-db48e9698ed4":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"subclass of"}}
@@ -7,4 +7,6 @@ tmap.id: 2dca5c98-6b56-4275-a574-083c170193ca
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-Academic disciplines that study the human condition, using methods that are primarily analytical, critical, or speculative.
+Humanities are academic disciplines that study aspects of human society and culture.
+
+https://en.wikipedia.org/wiki/Humanities

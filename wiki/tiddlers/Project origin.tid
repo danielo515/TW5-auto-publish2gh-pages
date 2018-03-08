@@ -1,5 +1,5 @@
 created: 20180307105630965
-modified: 20180308005408971
+modified: 20180308194720451
 title: Project origin
 tmap.id: 5a5b47d7-bdd0-4dc6-b0a9-0eb852684d8b
 type: text/vnd.tiddlywiki
@@ -31,7 +31,7 @@ The best tool I could find was Cmap [[Tools]] by the [[IHMC]] in Florida. I used
 
 From this point on Dino Karabeg's theories on Information Design have served me well. They provide interesting visions on how information should be structured to facilitate the change we need to be able to live well on earth in a sustainable way.
 
-The next logical step was to think about a possible connection between those very nice concept maps and a content repository that could be easily edited (sounds like a wiki). 
+The next logical step was to think about a possible connection between those very nice concept maps and a content repository that could be easily edited (sounded like a wiki). 
 
 For a few weeks I thought it would be impossible for me to connect Cmap Tools (which is free to use but not OpenSource) to some kind of Wiki Software. It turned out while this might be true, that some genius (i suppose the one of [[felixhayashi]]) had already created a solution for my problem and that the Wiki software that TiddlyMap runs inside was also a great shot.
 

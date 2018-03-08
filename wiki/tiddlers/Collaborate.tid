@@ -1,5 +1,5 @@
 created: 20180307002451622
-modified: 20180307133511113
+modified: 20180308194629760
 tags: howto tiddlywiki
 title: Collaborate
 tmap.id: f621336b-ae92-410e-bf95-f27221f5c41c
@@ -7,5 +7,7 @@ type: text/vnd.tiddlywiki
 
 If you want to add or update Tiddlers in this Wiki, simply save them as .tid-files, go to the [[GitHub source repository|https://github.com/samuelwiechmann/understand2]] and create a pull-request for those Tiddlers. You're welcome!
 
-
-There is even a simpler way to [[Improve this Wiki]] being tested!
+If you want to create a new view it's a bit more difficult. 
+Create a new view from the dropdown-menu.
+If you're done, open the Advanced Search by clicking the search-icon. Go to the System-Tab and type in the name of your view. Open the system Tiddler, export it, and create a pull-request for it in the [[GitHub source repository|https://github.com/samuelwiechmann/understand2]].
+If you created new Tiddlers in your map you also need to include those. If you created new Edge Types you also need to include those in your pull-request. 
