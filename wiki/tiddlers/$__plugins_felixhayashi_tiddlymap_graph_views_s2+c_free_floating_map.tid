@@ -1,5 +1,5 @@
 created: 20180301181023832
-modified: 20180307194831234
+modified: 20180308011530548
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+c_free_floating/map
 type: text/vnd.tiddlywiki
 
@@ -625,5 +625,9 @@ type: text/vnd.tiddlywiki
  "f16a9a10-4788-4100-8d1e-1511b8292d81": {
   "x": 1223,
   "y": 1203
+ },
+ "e0c5d908-732f-48ea-b351-2c43e6ffc813": {
+  "x": 1134.6697748884712,
+  "y": -91.27763006726015
  }
 }
