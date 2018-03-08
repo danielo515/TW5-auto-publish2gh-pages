@@ -1,5 +1,5 @@
 created: 20180307202442561
-modified: 20180307203442247
+modified: 20180308004246732
 tags: 
 title: What is this map?
 tmap.id: ac36aa7b-0a32-4cca-8e7b-104c6bafec3a
@@ -7,4 +7,8 @@ type: text/vnd.tiddlywiki
 
 You probably noticed the map to the right. Give it a look. You can also switch to half- or full-screen-mode. 
 
-The map shows all topics I included so far. Their purpose is to build a structure for interesting content. Because the selection of topics and their linkage is highly subjective I decided to also include myself into the view. I also included a progression of central topics bridging the gap between Me and the World as a whole to give some orientation. The rest basically splits into the three basic disciplines of science, applied science (technology) and the humanities.
+The map shows all topics I included so far. Their purpose is to build a structure for ordering interesting content. Because the selection of topics and their linkage is highly subjective I decided to also include myself into the view. Also I included a progression of central topics aiming to intuitively bridge the gap between Me and all of the World as a whole. The rest basically splits the three basic disciplines:
+
+* [[Science]]
+* [[Technology]]
+* [[Humanities]]
