@@ -1,0 +1,16 @@
+created: 20180309011320299
+modified: 20180309012039625
+tags: 
+title: Experimental views
+tmap.id: 1b908228-bfda-4069-83f7-13d4bcad2cf7
+type: text/vnd.tiddlywiki
+
+You can now switch to three experimental views. The first one has zero central gravity:
+
+<$tmap view="s2+c_exp1" click-to-use="true" ></$tmap>
+
+The second one has a little bit of central gravity:
+
+<$tmap view="s2+c_exp2" click-to-use="true" ></$tmap>
+
+And the third one is still being experimented with. 

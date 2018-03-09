@@ -1,0 +1,11 @@
+config.background_image: 
+config.physics_mode: true
+config.raster: 
+config.vis: {"edges":{"font":{"size":10},"smooth":{"type":"dynamic","roundness":0.15}},"nodes":{"shadow":{"x":-3,"y":-3},"shapeProperties":{},"shape":"box"},"physics":{"forceAtlas2Based":{"damping":1,"springConstant":2.505,"gravitationalConstant":-500,"springLength":0,"centralGravity":0.005}}}
+created: 20180301181023522
+id: 0e339a8b-f802-4a73-bce7-cc25e66aecaf
+isview: true
+modified: 20180309002008560
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+c_exp3
+type: text/vnd.tiddlywiki
+

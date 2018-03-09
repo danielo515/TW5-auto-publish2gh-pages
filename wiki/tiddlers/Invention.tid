@@ -1,8 +1,8 @@
 created: 20180307171406787
-modified: 20180307204325079
+modified: 20180308233231741
 tags: humanconcept 3 technology science
 title: Invention
-tmap.edges: {"4548efc6-8115-4379-9e29-5ad6eaabd97b":{"to":"d60c618e-6b41-4129-ad5d-9cb82d88b1a7","type":"should increase"},"17fe3c39-48c1-436c-9e94-56f85e7fa6dc":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"made possible"}}
+tmap.edges: {"4548efc6-8115-4379-9e29-5ad6eaabd97b":{"to":"d60c618e-6b41-4129-ad5d-9cb82d88b1a7","type":"should increase"}}
 tmap.id: c2a4c67b-5062-4f34-a63c-7a0a27fc2031
 type: text/vnd.tiddlywiki
 

@@ -1,9 +1,9 @@
 created: 20180307173215246
 icon: what makes you special.PNG
-modified: 20180307174144571
+modified: 20180308233635818
 tags: content talk TEDx 2017
 title: What makes you special?
-tmap.edges: {"51046073-1a52-4cf7-96a3-3e1c18529dc4":{"to":"3a9aa163-1e60-4017-a494-0d19f233482a","type":"deals with"},"27a904cb-4580-46b8-a701-2c34b973ae6e":{"to":"68508957-3387-472b-9965-f466691e7493","type":"deals with"},"02158242-ad08-45d4-a9ba-608fa8108b2e":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"deals with"}}
+tmap.edges: {"51046073-1a52-4cf7-96a3-3e1c18529dc4":{"to":"3a9aa163-1e60-4017-a494-0d19f233482a","type":"deals with"},"27a904cb-4580-46b8-a701-2c34b973ae6e":{"to":"68508957-3387-472b-9965-f466691e7493","type":"deals with"},"02158242-ad08-45d4-a9ba-608fa8108b2e":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"deals with"},"fd02f6fc-b025-46b8-baab-91e825cac1af":{"to":"825f8185-2ba5-4c11-a471-f13f1e03c3ba","type":"deals with"}}
 tmap.id: 6f5444bf-a072-4233-9d56-904669cfb0ab
 tmap.style: {}
 type: text/vnd.tiddlywiki
