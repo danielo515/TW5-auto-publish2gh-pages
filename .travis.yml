@@ -3,15 +3,16 @@ node_js:
   - "node"
 before_script:
   - npm install -g tiddlywiki
-script: tiddlywiki ./*wiki --build
+script: tiddlywiki ./*wiki 
         --savetiddlers [is[image]] images
         --setfield [is[image]] _canonical_uri $:/core/templates/canonical-uri-external-image text/plain
         --setfield [is[image]] test "" text/plain
         --rendertiddler $:/core/save/all externalimages.html text/plain
-
+        --build
+        
 after_success:
   - bash ./publish.sh
 
 branches:
   only:
-      - simple-node-styles
+      - master
