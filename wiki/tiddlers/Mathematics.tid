@@ -1,8 +1,8 @@
 created: 20180301191722757
-modified: 20180307201059556
+modified: 20180313181540646
 tags: topic science formal school 4
 title: Mathematics
-tmap.edges: {"6eee5590-8a54-4cee-b650-e6b66de71f9e":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"subclass of"},"9cde47a8-cc65-42b7-b445-5ede10d08788":{"to":"a99c4aaf-33c5-4564-b9de-8de4f80cbadf","type":"uses"}}
+tmap.edges: {"6eee5590-8a54-4cee-b650-e6b66de71f9e":{"to":"18fc1239-3b0c-4a48-9304-65e638dd271f","type":"subclass of"},"9cde47a8-cc65-42b7-b445-5ede10d08788":{"to":"a99c4aaf-33c5-4564-b9de-8de4f80cbadf","type":"uses"},"d5d33a61-e03e-495a-8924-0d1f92e5c4d5":{"to":"d1cdab53-de03-4c37-b0f3-9fcf1872a3d0","type":"deals with"}}
 tmap.id: 09e8407e-2e4d-4a0a-b109-ba75b414dcbc
 type: text/vnd.tiddlywiki
 

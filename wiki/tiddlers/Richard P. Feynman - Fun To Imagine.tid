@@ -1,9 +1,11 @@
 created: 20180313150820567
-modified: 20180313151138218
+icon: fun to imagine.PNG
+modified: 20180313203037449
 tags: content video physics 1983
 title: Richard P. Feynman - Fun To Imagine
-tmap.edges: {"bb451ac4-fb87-45e4-a744-9094b8e1bbb1":{"to":"245a2020-d4d5-4d7e-a5aa-eb5cdc9b2f43","type":"deals with"}}
+tmap.edges: {"bb451ac4-fb87-45e4-a744-9094b8e1bbb1":{"to":"245a2020-d4d5-4d7e-a5aa-eb5cdc9b2f43","type":"deals with"},"92be2b13-4d5e-4602-ade2-f64324b1413b":{"to":"55ad0ac5-67dc-47a8-bc02-c4381a5448d9","type":"nice video with"}}
 tmap.id: b46cb3ba-2457-4c95-8915-c07bdcef2a1e
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
 !!![[Richard P. Feynman - Fun To Imagine|https://youtu.be/eqtuNXWT0mo]]

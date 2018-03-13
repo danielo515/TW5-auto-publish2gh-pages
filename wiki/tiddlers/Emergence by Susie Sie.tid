@@ -1,9 +1,11 @@
 created: 20180313145730889
-modified: 20180313150355627
+icon: emergence by susie sie.PNG
+modified: 20180313162320153
 tags: content video art 2012 science
 title: Emergence by Susie Sie
-tmap.edges: {"e0e71565-b0ea-46f2-8a96-acc9d7020e5c":{"to":"81cf487d-d70a-466d-821b-a731cb89b916","type":"deals with"}}
+tmap.edges: {"e0e71565-b0ea-46f2-8a96-acc9d7020e5c":{"to":"81cf487d-d70a-466d-821b-a731cb89b916","type":"deals with"},"fc601008-7095-475e-bd06-4bf43f0da03f":{"to":"6f710a8b-46a5-477b-ad37-35f252189b22","type":"instance of"}}
 tmap.id: 3308624b-3a9d-4ddc-a09d-4b3e599ca997
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
 !!![[Emergence|https://youtu.be/YV0xnGcvoJs]]

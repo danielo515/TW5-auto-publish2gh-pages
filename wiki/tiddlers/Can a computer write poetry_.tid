@@ -1,14 +1,14 @@
 created: 20180304225011735
-modified: 20180306112127110
+icon: can a computer write poetry.PNG
+modified: 20180313201202299
 tags: content talk [[computer science]] poetry TEDx
 title: Can a computer write poetry?
 tmap.edges: {"7d8ad41b-5561-45e4-8ff2-f0ddc51dceb3":{"to":"6e76801d-7ba7-4536-b3ee-ff1a26e6bb6b","type":"deals with"},"06d7ba7c-265c-444c-99cb-3b7e160adaab":{"to":"05003dd4-c3d9-438b-a65d-9ee6c45aed21","type":"deals with"}}
 tmap.id: bd992e21-307d-4f6d-8185-0647e300c303
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
-"""[[Can a computer write poetry?|https://www.ted.com/talks/oscar_schwartz_can_a_computer_write_poetry?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]] 
-Oskar Schwartz
-2015 TEDx           11 min                
+!!![[Can a computer write poetry?|https://www.ted.com/talks/oscar_schwartz_can_a_computer_write_poetry?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]] 
+''Oskar Schwartz | 2015 | ~TEDxYouth@Sydney | 11 min''                
 
 If you read a poem and feel moved by it, but then find out it was actually written by a computer, would you feel differently about the experience? Would you think that the computer had expressed itself and been creative, or would you feel like you had fallen for a cheap trick? In this talk, writer Oscar Schwartz examines why we react so strongly to the idea of a computer writing poetry -- and how this reaction helps us understand what it means to be human.
-"""
