@@ -1,8 +1,0 @@
-created: 20180301163420130
-modified: 20180306153052996
-priority: 1
-scope: [tag[science]tag[topic]tag[4]]
-style: {"font":{"size":18},"color":{"background":"rgba(213,221,255,1)","border":"rgba(153,149,149,1)"}}
-title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:sciencetopic4
-type: text/vnd.tiddlywiki
-

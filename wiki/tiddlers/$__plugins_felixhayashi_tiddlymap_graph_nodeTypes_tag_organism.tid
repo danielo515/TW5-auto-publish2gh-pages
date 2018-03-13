@@ -1,0 +1,8 @@
+created: 20180313093335354
+modified: 20180313103438211
+priority: 1
+scope: [tag[organism]]
+style: {"color":{"background":"rgba(251,12,6,1)","border":"rgba(127,122,125,1)"},"font":{"color":"rgba(11,31,66,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:organism
+type: text/vnd.tiddlywiki
+

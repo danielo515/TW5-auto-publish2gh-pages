@@ -1,8 +1,8 @@
-created: 20180302014356500
-modified: 20180306112951078
-priority: 1
+created: 20180313102613840
+modified: 20180313102706542
+priority: 2
 scope: [tag[topic]]
-style: {"shadow":{"x":2,"y":2,"size":8}}
+style: {"color":{"border":"rgba(118,114,119,1)","background":"rgba(203,232,239,1)"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:topic
 type: text/vnd.tiddlywiki
 

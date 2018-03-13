@@ -1,6 +1,6 @@
 created: 20180306133810654
 creator: Samuel
-modified: 20180312225832344
+modified: 20180313103824212
 modifier: Samuel
 title: $:/plugins/felixhayashi/tiddlymap/config/sys/user
 type: application/json
@@ -24,5 +24,5 @@ type: application/json
     "editorMenuBar.showNeighScopeButton": "true",
     "editorMenuBar.showRasterMenuButton": "true",
     "editorMenuBar.showScreenshotButton": "true",
-    "defaultView": "s2+c_free_floating"
+    "defaultView": "s2+c_exp2"
 }

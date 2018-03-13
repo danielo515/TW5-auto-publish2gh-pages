@@ -1,8 +1,0 @@
-created: 20180307171035318
-modified: 20180307171036821
-priority: 1
-scope: [tag[humanconcept]tag[2]]
-style: {"color":{"border":"rgba(122,119,119,1)","background":"rgba(252,245,219,1)"},"font":{"size":32}}
-title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:humancnpt2
-type: text/vnd.tiddlywiki
-
