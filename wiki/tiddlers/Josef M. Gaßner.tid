@@ -1,8 +1,8 @@
 created: 20180313085547780
-modified: 20180313091229328
+modified: 20180313134715154
 tags: person astrophysics mathematics scientist
 title: Josef M. Gaßner
-tmap.edges: {"6f1753df-38ce-4d1e-a7ed-c64f39f74f1c":{"to":"88c0fcad-87c8-4d98-87ed-6669d828ec99","type":"author of"},"393d611b-b52f-4bda-8173-b00b4b5fba93":{"to":"a94709fb-de4b-4b7a-9637-f1514efddff2","type":"deals with"},"41899baa-fec5-4aa2-9daf-0f5dc2700c64":{"to":"a20d1456-8947-45ff-b573-901b3d7879ab","type":"deals with"}}
+tmap.edges: {"393d611b-b52f-4bda-8173-b00b4b5fba93":{"to":"a94709fb-de4b-4b7a-9637-f1514efddff2","type":"deals with"},"41899baa-fec5-4aa2-9daf-0f5dc2700c64":{"to":"a20d1456-8947-45ff-b573-901b3d7879ab","type":"deals with"},"89d0e088-519a-43f9-88c2-be408a03a598":{"to":"88c0fcad-87c8-4d98-87ed-6669d828ec99","type":"appears in"}}
 tmap.fa-icon: f007
 tmap.id: fbb3a57a-0d27-42af-bdd5-430c1fad837c
 tmap.style: {}

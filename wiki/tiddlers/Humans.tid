@@ -1,6 +1,6 @@
 created: 20180222130546823
-modified: 20180308233034481
-tags: organism person people 1 topic
+modified: 20180313141619201
+tags: organism people 1 topic
 title: Humans
 tmap.edges: {"be5df33b-18a1-41b0-b803-a1874738ac0f":{"to":"1071da49-4685-45cb-89f6-512f3165c1f2","type":"form"},"86e1a7d2-1440-493a-a3aa-d42b189c0a62":{"to":"33616a59-3a33-4fab-b18f-19e26fc01346","type":"form"},"30c24e12-7153-4dc1-a6a3-5c7755c06aff":{"to":"ae48562b-93dc-4627-898e-5b359e628b93","type":"subclass of"},"175c233f-ac47-4ea6-804e-549703d62512":{"to":"287fadec-fdd4-4a29-912b-e86d6ed9abfb","type":"sublass of"},"d5b48517-b5b3-4479-bb37-c7e56575497a":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"form"},"42487dfe-b62c-4539-80cc-9d5a2b37e2e8":{"to":"fbf1234b-7fe7-47d6-ada8-1162c7875c16","type":"have"},"5b491079-fd0f-4a51-aa99-6e9a2ded514a":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"have"},"52deb408-6f64-4310-9391-eac8d283ec89":{"to":"cb82f812-b9fd-4921-94ca-085fd9d16cbf","type":"can experience"},"8859db1b-e6ac-48f9-a47d-e153c716294c":{"to":"68508957-3387-472b-9965-f466691e7493","type":"form"},"d0435cd2-b88d-44ad-94ac-9c91252943e5":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"part of"}}
 tmap.id: 7f143bab-0fac-48b3-ba1c-c7fc5dfc5d09

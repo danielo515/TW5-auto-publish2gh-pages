@@ -1,8 +1,8 @@
 created: 20180313093733016
-modified: 20180313103712238
+modified: 20180313134308099
 priority: 1
 scope: [tag[object]]
-style: {"color":{"border":"rgba(132,127,130,1)","background":"rgba(25,39,61,1)"},"font":{"color":"rgba(216,216,216,1)"}}
+style: {"color":{"border":"rgba(142,119,118,1)","background":"rgba(25,39,61,1)"},"font":{"color":"rgba(216,196,184,1)"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:object
 type: text/vnd.tiddlywiki
 

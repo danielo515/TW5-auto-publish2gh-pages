@@ -1,0 +1,13 @@
+created: 20180313151941636
+modified: 20180313152812607
+tags: physicalconcept physics life
+title: Feedback Loop
+tmap.edges: {"15d22e38-7868-404c-9c89-c7e43fe49e4a":{"to":"1ca77ab2-8b9a-4f76-94c4-5f24fffa0b1e","type":"subclass of"},"6d70436b-9e15-4700-8107-c5842219533b":{"to":"fded7231-2792-4bfa-a6b6-6212918a7937","type":"appears in"}}
+tmap.id: 55261812-832a-49f8-88e4-4564a4e0badf
+type: text/vnd.tiddlywiki
+
+Feedback occurs when outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop. The system can then be said to feed back into itself. The notion of cause-and-effect has to be handled carefully when applied to feedback systems:
+
+Simple causal reasoning about a feedback system is difficult because the first system influences the second and second system influences the first, leading to a circular argument. This makes reasoning based upon cause and effect tricky, and it is necessary to analyze the system as a whole.
+
+https://en.wikipedia.org/wiki/Feedback
