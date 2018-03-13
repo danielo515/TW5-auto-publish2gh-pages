@@ -1,6 +1,6 @@
 created: 20180306140413534
-modified: 20180309011141082
+modified: 20180312225832098
 title: $:/plugins/felixhayashi/tiddlymap/config/vis/user
 type: text/vnd.tiddlywiki
 
-{"edges":{"font":{"align":"middle"},"smooth":{"type":"continuous"}}}
+{"edges":{"font":{"align":"middle"},"smooth":{"type":"continuous"}},"nodes":{"shadow":{"enabled":false}}}
