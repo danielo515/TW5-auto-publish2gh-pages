@@ -4,9 +4,9 @@ node_js:
 before_script:
   - npm install -g tiddlywiki
                                             
-script: tiddlywiki ./*wiki  --savetiddlers [is[image]] images
-                            --setfield [is[image]] _canonical_uri $:/core/templates/canonical-uri-external-image text/plain
-                            --setfield [is[image]] text "" text/plain
+script: tiddlywiki ./*wiki  --savetiddlers [is[image]!is[sombrero.PNG]!is[favicon.ICO]] images
+                            --setfield [is[image]!is[sombrero.PNG]!is[favicon.ICO]] _canonical_uri $:/core/templates/canonical-uri-external-image text/plain
+                            --setfield [is[image]!is[sombrero.PNG]!is[favicon.ICO]] text "" text/plain
                             --rendertiddler $:/core/save/all externalimages.html text/plain
                             --build
         
