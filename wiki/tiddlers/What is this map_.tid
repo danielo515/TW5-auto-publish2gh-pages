@@ -1,5 +1,5 @@
 created: 20180307202442561
-modified: 20180313221618351
+modified: 20180314000943944
 tags: 
 title: What is this map?
 tmap.id: ac36aa7b-0a32-4cca-8e7b-104c6bafec3a
@@ -10,3 +10,11 @@ This map shows lots of topics. Their purpose is to create a structure on which c
 * [[Science]]
 * [[Technology]]
 * [[Humanities]]
+
+Sciences are pale blue, Technology is grey, the Humanities are slightly purple. All other nodes are either 
+
+* Physical Concepts (dark blue), 
+* Actual Things (dark orange), 
+* Living Things (red) or 
+* Human Concepts (orange)
+[[More on the Map]]

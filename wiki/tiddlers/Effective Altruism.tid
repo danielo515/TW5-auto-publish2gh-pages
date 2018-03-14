@@ -1,6 +1,6 @@
 created: 20180307173339451
 icon: effective altruism.PNG
-modified: 20180308172020217
+modified: 20180313233454377
 tags: content talk TED 2013
 title: Effective Altruism
 tmap.edges: {"2f883e40-0c5f-48b6-b712-0614c54a2269":{"to":"2bcf7eee-a02b-41a5-90c1-b1b0e94865d4","type":"deals with"},"93d2cfaf-4b6a-44eb-b64c-c69708656046":{"to":"648a38d3-d167-40f3-89a3-1c8a17bbb067","type":"deals with"}}
@@ -8,8 +8,6 @@ tmap.id: 0c50053d-8f3b-4865-a605-51549c80dc88
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[The why and how of effective altruism|https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
-
+"""[[The why and how of effective altruism|https://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
 ''Peter Singer 2013  TED  17 min''
-
 If you‘re lucky enough to live without want, it‘s a natural impulse to be altruistic to others. But, asks philosopher Peter Singer, what‘s the most effective way to give? He talks through some surprising thought experiments to help you balance emotion and practicality -- and make the biggest impact with whatever you can share. 

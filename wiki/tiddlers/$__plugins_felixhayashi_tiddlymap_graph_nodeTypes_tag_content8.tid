@@ -1,8 +1,8 @@
 created: 20180301134809603
-modified: 20180313093542127
+modified: 20180313233107854
 priority: 1
 scope: [tag[content]]
-style: {"font":{"size":6},"color":{"background":"rgba(238,237,239,1)","border":"rgba(206,209,208,1)"}}
+style: {"font":{"size":18,"color":"rgba(48,48,48,1)"},"color":{"background":"rgba(253,252,255,1)","border":"rgba(241,244,243,1)"}}
 title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:content8
 type: text/vnd.tiddlywiki
 
