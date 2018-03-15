@@ -1,13 +1,13 @@
 config.background_image: 
 config.neighbourhood_scope: 
-config.physics_mode: true
+config.physics_mode: false
 config.raster: 
-config.vis: {"edges":{"font":{"size":10},"smooth":{"type":"dynamic","roundness":0.15}},"nodes":{"shadow":{"x":-3,"y":-3},"shapeProperties":{},"shape":"box"},"physics":{"forceAtlas2Based":{"damping":1,"springConstant":0.07,"gravitationalConstant":-77,"springLength":0,"centralGravity":0.005}}}
+config.vis: {"edges":{"font":{"size":10},"smooth":{"type":"continuous","roundness":0.15}},"nodes":{"shadow":{"x":-3,"y":-3},"shapeProperties":{},"shape":"box"},"physics":{"forceAtlas2Based":{"damping":1,"springConstant":0.08,"gravitationalConstant":-92,"springLength":140,"centralGravity":0.01}}}
 created: 20180301181023522
 creator: Samuel
 id: bdf30f9b-af12-4e4d-8c6b-080e251219b9
 isview: true
-modified: 20180312233709515
+modified: 20180314115527895
 modifier: Samuel
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+m_exp2
 type: text/vnd.tiddlywiki

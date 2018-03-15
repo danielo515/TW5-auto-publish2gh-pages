@@ -1,0 +1,27 @@
+created: 20150320143808221
+modified: 20180314193711274
+tags: $:/tags/Macro floating-images
+title: floating-image-macros
+tmap.id: 5d6b1139-9088-48d4-a44a-b94c4c21d210
+type: text/vnd.tiddlywiki
+
+\define image-left(name, width:"33%", tooltip, caption)
+<div class="image-float-left" style="width:$width$">
+[img width="100%" [$tooltip$|$name$]]
+$caption$
+</div>
+\end
+
+\define image-right(name, width:"33%", tooltip, caption)
+<div class="image-float-right" style="width:$width$">
+[img width="100%" [$tooltip$|$name$]]
+$caption$
+</div>
+\end
+
+\define image-center(name, width:"33%", tooltip, caption)
+<div class="image-center" style="width:$width$">
+[img width="100%" [$tooltip$|$name$]]
+$caption$
+</div>
+\end

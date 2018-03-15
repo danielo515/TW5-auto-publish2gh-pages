@@ -1,6 +1,5 @@
 created: 20180313144630650
-icon: what rivers can tell us.PNG
-modified: 20180313161240085
+modified: 20180315093819668
 tags: content video physics life 2014 earth
 title: What rivers can tell us about the earth's history
 tmap.edges: {"3a434ac3-c877-4b62-93df-38d44ba0289f":{"to":"4a18ddcd-acb8-4b43-91c7-3c68e93f2c64","type":"deals with"}}
@@ -8,7 +7,7 @@ tmap.id: 64925bf7-c036-4721-aacf-e6c8b6bba82f
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[What rivers can tell us about the earth's history|https://www.ted.com/talks/liz_hajek_what_rivers_can_tell_us_about_the_earth_s_history?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare]]
+<<image-left "what rivers can tell us.PNG">>"""[[What rivers can tell us about the earth's history|https://www.ted.com/talks/liz_hajek_what_rivers_can_tell_us_about_the_earth_s_history?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare]]
 ''2014 | Liz Hajek | ~TEDxPSU | 11 min''
 
 Rivers are one of nature's most powerful forces -- they bulldoze mountains and carve up the earth, and their courses are constantly moving. Understanding how they form and how they'll change is important for those that call their banks and deltas home. In this visual-packed talk, geoscientist Liz Hajek shows us how rocks deposited by ancient rivers can be used as a time machine to study the history of the earth, so we can figure out how to more sustainably live on it today.

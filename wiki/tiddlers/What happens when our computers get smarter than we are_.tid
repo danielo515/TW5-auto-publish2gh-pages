@@ -1,9 +1,10 @@
 created: 20180313190148176
-modified: 20180313190303616
+modified: 20180315094437695
 tags: talk content 2015 TED AI philosophy ASI
 title: What happens when our computers get smarter than we are?
 tmap.edges: {"f2f2acc7-7e83-4421-bda1-44e62fa2063c":{"to":"6e76801d-7ba7-4536-b3ee-ff1a26e6bb6b","type":"deals with"}}
 tmap.id: 6378f0fb-360e-4a6f-a7e4-ac29f3e7159a
+tmap.style: {"shapeProperties":{"borderDashes":false},"font":{"size":0}}
 type: text/vnd.tiddlywiki
 
 !!![[What happens when our computers get smarter than we are?|https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are]]

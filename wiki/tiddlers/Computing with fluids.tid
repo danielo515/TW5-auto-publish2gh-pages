@@ -1,6 +1,5 @@
 created: 20180313173013188
-icon: computing with fluids.PNG
-modified: 20180313192300070
+modified: 20180314202110445
 tags: content talk TED computing 2017
 title: Computing with fluids
 tmap.edges: {"719196e6-ca8f-4c31-acee-d59050996207":{"to":"26afc735-53ba-4406-9583-e62c070efeb6","type":"deals with"}}
@@ -8,7 +7,7 @@ tmap.id: 683c1931-5642-4902-9b8e-a84d363114f9
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[Computing with fluids|https://youtu.be/OhroLzvW-JI]]
+<<image-left "computing with fluids.PNG">>"""[[Computing with fluids|https://youtu.be/OhroLzvW-JI]]
 ''2017 | Manu Prakash | TED | 22 min''
 
 In this fascinating talk, TED Fellow Manu Prakash brings a science experiment to the TED stage - delving right into the potential of computing with fluids and the impact that it could have on how we manipulate matter. He explores this phenomena on the micro scale, using only glass slides, water and food coloring.

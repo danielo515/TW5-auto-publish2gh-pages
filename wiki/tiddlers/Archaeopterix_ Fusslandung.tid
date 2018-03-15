@@ -1,14 +1,14 @@
 created: 20180301135014577
-icon: Fusslandung.PNG
-modified: 20180306112127163
-tags: content video aviation glider deutsch
+modified: 20180314203240010
+tags: content video aviation glider deutsch flying
 title: Archaeopterix: Fusslandung
 tmap.edges: {"4e6cd628-2874-40b8-af2c-cfff634ae439":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"},"0286aa6a-73b3-4145-b1ff-3bdec2e38cf9":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"instance of"}}
 tmap.id: b62065d2-df3d-452b-805d-e0fb03114cf9
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-"""
-''ruppert composites | 2012 | 2 min | [[Youtube|https://youtu.be/GJ9aNti0SRo]]''
+<<image-left "Fusslandung.PNG">>"""[[Archaeopterix: Fusslandung|https://youtu.be/GJ9aNti0SRo]]
+''ruppert composites | 2012 | Youtube | 2 min''
+
 Mit entsprechender Erfahrung und dem notwendigen Training ist die Fusslandung möglich. Der Landeanflug wird gegen den Wind auf die Fusslandung hin geplant. Der Archaeopteryx ist ein vielseitiger high-end Hängegleiter in Segelflugzeugkonfiguration mit aussergewöhnlicher Steigfähigkeit. Konzipiert ist er für den Fussstart von Berghängen sowie für eine Vielzahl weiterer Startarten wie Gummiseilstart vom Berg oder Auto-, Winden-, Flugzeug-, und UL-Schleppstarts von Flugplätzen.
-"""
+

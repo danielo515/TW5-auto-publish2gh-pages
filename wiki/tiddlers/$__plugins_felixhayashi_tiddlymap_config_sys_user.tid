@@ -1,6 +1,6 @@
 created: 20180306133810654
 creator: Samuel
-modified: 20180313103824212
+modified: 20180314201817535
 modifier: Samuel
 title: $:/plugins/felixhayashi/tiddlymap/config/sys/user
 type: application/json
@@ -20,7 +20,7 @@ type: application/json
     "popups.height": "140px",
     "jsonIndentation": "1",
     "editNodeOnCreate": "false",
-    "singleClickMode": "false",
+    "singleClickMode": "true",
     "editorMenuBar.showNeighScopeButton": "true",
     "editorMenuBar.showRasterMenuButton": "true",
     "editorMenuBar.showScreenshotButton": "true",

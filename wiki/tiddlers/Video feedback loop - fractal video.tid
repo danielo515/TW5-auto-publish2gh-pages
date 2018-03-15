@@ -1,14 +1,12 @@
 created: 20180313152757497
-icon: video feedback loop.PNG
-modified: 20180313160134576
+modified: 20180314201527198
 tags: content video feedbackloop 2014
 title: Video feedback loop - fractal video
 tmap.id: fded7231-2792-4bfa-a6b6-6212918a7937
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[Video feedback loop - fractal video|https://youtu.be/OWnC9tSA3iA]]
+<<image-left "video feedback loop.PNG">>"""[[Video feedback loop - fractal video|https://youtu.be/OWnC9tSA3iA]]
 ''2014 | Imaginative Guy | Youtube | 7 min''
-
 Here’s a strong example of how feedback loops can generate complex patterns from simple 
 inputs.

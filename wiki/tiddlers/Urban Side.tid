@@ -1,15 +1,14 @@
 created: 20180228234748067
-icon: urban side - chandelier.PNG
-modified: 20180306112127137
-tags: content aviation paraglider fun video
+modified: 20180314204110201
+tags: content aviation paraglider fun video flying
 title: Urban Side
 tmap.edges: {"74129034-c7b2-40c3-a7a5-e3e51c2de7df":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"}}
 tmap.id: 2de79224-c287-444d-af93-01e108e69c1b
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-"""
-''Jean-Baptiste Chandelier | 2012   6 min | [[Youtube|https://www.youtube.com/watch?v=SiX2eGYJ2Kc]]''
+<<image-left "urban side - chandelier.PNG">>"""[[Urban Side|https://www.youtube.com/watch?v=SiX2eGYJ2Kc]]
+''Jean-Baptiste Chandelier | 2012 | Youtube | 6 min''
 http://www.jeanbaptistechandelier.com
 Music: "Welcome Home" from "Radical Face"
 """

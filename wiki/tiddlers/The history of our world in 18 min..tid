@@ -1,6 +1,5 @@
 created: 20180308180433168
-icon: the history of our world.PNG
-modified: 20180308192628440
+modified: 20180315092653353
 tags: content talk 2011 TED
 title: The history of our world in 18 min.
 tmap.edges: {"dbdf69e2-afce-4a0e-b90e-65bc4ea59fc0":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"deals with"},"f5fbc90e-5716-4e3b-8e3d-83aa8d21aa22":{"to":"bff58151-6bc7-4e1d-904a-1127fe46e53e","type":"deals with"}}
@@ -8,7 +7,7 @@ tmap.id: 40b57350-e3cf-49a2-bd10-dcd19a5d5fd9
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[The history of our world in 18 min.|https://www.ted.com/talks/david_christian_big_history?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
-''David Christian on TED 2011  18 min  ''
+<<image-left "the history of our world.PNG">>"""[[The history of our world in 18 min.|https://www.ted.com/talks/david_christian_big_history?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
+''David Christian | 2011 | TED | 18 min  ''
 
 Backed by stunning illustrations, David Christian narrates a complete history of the universe, from the Big Bang to the Internet, in a riveting 18 minutes. This is „Big History“: an enlightening, wide-angle look at complexity, life and humanity, set against our slim share of the cosmic timeline.

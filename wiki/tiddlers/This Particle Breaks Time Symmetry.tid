@@ -1,6 +1,5 @@
 created: 20180313153808931
-icon: this particle breaks time symmetry.PNG
-modified: 20180313223524460
+modified: 20180314195730032
 tags: content video time 2017
 title: This Particle Breaks Time Symmetry
 tmap.edges: {"72993469-9331-429f-bad2-0162489f340a":{"to":"cf4e8d4d-c678-41b4-ade8-e1f442290549","type":"deals with"},"b0dc832b-fc80-4e44-9863-7801abed285c":{"to":"d1cdab53-de03-4c37-b0f3-9fcf1872a3d0","type":"deals with"}}
@@ -8,7 +7,6 @@ tmap.id: f2c1750d-e59c-453c-8f51-294f5df1717f
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-"""[[This Particle Breaks Time Symmetry|https://youtu.be/yArprk0q9eE]]
+<<image-left "this particle breaks time symmetry.PNG">>"""[[This Particle Breaks Time Symmetry|https://youtu.be/yArprk0q9eE]]
 ''2017 | Veritasium | Youtube | 9 min''
-
 Increasing entropy is NOT the only process that’s asymmetric in time.    

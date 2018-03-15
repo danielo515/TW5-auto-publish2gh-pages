@@ -1,6 +1,5 @@
 created: 20180313173224190
-icon: 10 ways the world could end.PNG
-modified: 20180313201653135
+modified: 20180315092824653
 tags: content talk TED 2002 world
 title: 10 ways the world could end
 tmap.edges: {"6dbb477a-a48e-4aa2-9f3e-a3b7d788b076":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"deals with"}}
@@ -8,7 +7,7 @@ tmap.id: 3e73b574-1ad1-4ac9-a0e5-a32358e81073
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[10 ways the world could end|https://www.ted.com/talks/stephen_petranek_counts_down_to_armageddon?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare]]
+<<image-left "10 ways the world could end.PNG">>"""[[10 ways the world could end|https://www.ted.com/talks/stephen_petranek_counts_down_to_armageddon?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare]]
 ''2002 | Stephen Petranek | TED | 30 min''
 
 How might the human race end? Stephen Petranek lays out 10 terrible options and the science behind them. Will we be wiped out by an asteroid? Eco-collapse? How about a particle collider gone wild?

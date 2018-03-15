@@ -1,6 +1,5 @@
 created: 20180304223747717
-icon: learning german.PNG
-modified: 20180306155452149
+modified: 20180314204214070
 tags: content talk german TEDx 2016 poetry mathematics
 title: Learning German
 tmap.edges: {"f5f39429-2506-4690-9c42-92bc0a86052c":{"to":"05003dd4-c3d9-438b-a65d-9ee6c45aed21","type":"deals with"}}
@@ -9,5 +8,5 @@ tmap.style: {}
 type: text/vnd.tiddlywiki
 
 """[[How learning german taught me the link between maths and poetry|https://youtu.be/_98m4Vod6_8]]
-Harry Baker 2016 TEDX 15 min
+<<image-left "learning german.PNG">>''Harry Baker | 2016 | TEDx | 15 min''
 In mathematics there are right answers. In poetry there are no wrong ones. Find out how learning a foreign language, especially one that can be as beautifully logical as German, taught World Slam Poetry Slam Champion Harry Baker the two were a lot more linked than he realised."""

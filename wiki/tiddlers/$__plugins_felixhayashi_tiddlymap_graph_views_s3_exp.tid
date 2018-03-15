@@ -1,0 +1,10 @@
+config.physics_mode: true
+config.raster: 150
+config.vis: {"edges":{"smooth":{"enabled":false}},"interaction":{"hideEdgesOnDrag":true},"physics":{"forceAtlas2Based":{"gravitationalConstant":-142,"damping":0.92,"springLength":90}}}
+created: 20180314100817541
+id: 5e5e64e7-2eb3-4b69-ac7d-16980ee5a06b
+isview: true
+modified: 20180314101644127
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/s3_exp
+type: text/vnd.tiddlywiki
+

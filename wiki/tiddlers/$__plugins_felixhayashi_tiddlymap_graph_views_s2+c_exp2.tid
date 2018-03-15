@@ -1,11 +1,11 @@
 config.background_image: 
 config.physics_mode: false
 config.raster: 
-config.vis: {"edges":{"font":{"size":6},"smooth":{"type":"continuous","roundness":0.05,"forceDirection":"none"}},"nodes":{"shadow":{"enabled":false}},"physics":{"forceAtlas2Based":{"damping":0.09,"springConstant":0.05,"gravitationalConstant":-150,"springLength":140,"centralGravity":0.01}}}
+config.vis: {"edges":{"font":{"size":6},"smooth":{"type":"continuous","roundness":0.05,"forceDirection":"none"}},"nodes":{"shadow":{"enabled":false}},"physics":{"forceAtlas2Based":{"damping":0.09,"springConstant":0.05,"gravitationalConstant":-171,"springLength":140,"centralGravity":0.01}}}
 created: 20180301181023522
 id: 6702286f-5b38-4ede-b7af-4217af0fbd39
 isview: true
-modified: 20180314001003389
+modified: 20180314191735308
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/s2+c_exp2
 type: text/vnd.tiddlywiki
 

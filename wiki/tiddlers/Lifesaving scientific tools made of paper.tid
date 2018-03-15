@@ -1,6 +1,5 @@
 created: 20180308173345779
-icon: livesaving scientific tools.PNG
-modified: 20180308173540368
+modified: 20180315091928170
 tags: content talk TED 2017
 title: Lifesaving scientific tools made of paper
 tmap.edges: {"32e1f90d-c557-4378-a549-3ca2a2a93e09":{"to":"c2a4c67b-5062-4f34-a63c-7a0a27fc2031","type":"instance of"},"4b68b697-a8dd-4c1c-8641-80c85a150880":{"to":"86990ef7-2d8b-4b41-916c-2c36a9b9d39e","type":"links to"}}
@@ -8,7 +7,7 @@ tmap.id: 994c01ca-0f14-4756-b8d1-662c08f823cc
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[Lifesaving scientific tools made of paper|https://youtu.be/ULNPLFrTirQ]]
-''Manu Prakash                        2017 TED              14 min''
+<<image-left "livesaving scientific tools.PNG">>"""[[Lifesaving scientific tools made of paper|https://youtu.be/ULNPLFrTirQ]]
+''Manu Prakash | 2017 | TED | 14 min''
 
 Inventor Manu Prakash turns everyday materials into powerful scientific devices, from paper microscopes to a clever new mosquito tracker. From the TED Fellows stage, he demos Paperfuge, a hand-powered centrifuge inspired by a spinning toy that costs 20 cents to make and can do the work of a $1,000 machine, no electricity required.

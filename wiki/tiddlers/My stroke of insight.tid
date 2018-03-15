@@ -1,6 +1,5 @@
 created: 20180313175908023
-icon: my stroke of insight.PNG
-modified: 20180313202151976
+modified: 20180315092256237
 tags: 2008 content talk brain insight neuroscience neurology stroke
 title: My stroke of insight
 tmap.edges: {"afa77141-2e63-47fe-b0fe-55cd5829d224":{"to":"6bf232fc-5783-479c-8d2b-130ceb422ba3","type":"deals with"},"884a6d45-ae9c-4444-b46e-15af7e94f8f9":{"to":"3e5c7fad-95e6-4ba9-9118-a2b2bd4c5867","type":"deals with"}}
@@ -8,7 +7,7 @@ tmap.id: 2fff94f0-d4f2-4d22-9cbe-92eef1d7ceb5
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-!!![[My stroke of insight|https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
+<<image-left "my stroke of insight.PNG">>"""[[My stroke of insight|https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare]]
 ''2008 | Jill Bolte Taylor | TED |           18 min''
 
 Jill Bolte Taylor got a research opportunity few brain scientists would wish for: She had a massive stroke, and watched as her brain functions -- motion, speech, self-awareness -- shut down one by one. An astonishing story.

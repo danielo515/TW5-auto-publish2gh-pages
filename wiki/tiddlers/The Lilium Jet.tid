@@ -1,17 +1,14 @@
 created: 20180301145200864
-icon: lilium jet.PNG
-modified: 20180306112127140
-tags: content video aviation technology future electric
+modified: 20180314203955452
+tags: content video aviation technology future electric flying
 title: The Lilium Jet
 tmap.edges: {"31df7dba-b717-4f13-b485-5a20726112ac":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"},"f3fe522a-1398-42c3-95e6-a71a39eded12":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"instance of"}}
 tmap.id: dafa5078-34de-4fe1-9d05-19932542be56
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
-"""
-''2017 | lilium | 2 min | [[Youtube|https://youtu.be/ohig71bwRUE]]''
-
-''The world‘s first all-electric VTOL jet''
+<<image-left "lilium jet.PNG">>"""[[The Lilium Jet|https://youtu.be/ohig71bwRUE]]
+''2017 | lilium | Youtube | 2 min''
+The world‘s first all-electric VTOL jet
 
 The Lilium Jet successfully completed its maiden test flight series in the skies above Bavaria. The 2-seater Eagle prototype executed a range of complex maneuvers, including its signature mid-air transition from hover mode to wing-borne forward flight.
-"""
