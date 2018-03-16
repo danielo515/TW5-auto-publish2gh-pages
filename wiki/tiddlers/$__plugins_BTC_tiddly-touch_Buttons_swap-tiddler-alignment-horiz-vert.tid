@@ -1,0 +1,20 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!view-horizontal}} switch between vertical / horizontal
+created: 20180119121038549
+description: switch between vertical and horizontal view
+modified: 20180316131704760
+tags: $:/tags/LeftBar $:/tags/PageControls
+title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-horiz-vert
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-horizontal" type="nomatch" text="yes">
+<$button class="tc-btn-invisible" tooltip="align tiddlers horizontally">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-horizontal" $value="yes"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!view-vertical}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-horizontal" type="match" text="yes">
+<$button class="tc-btn-invisible" tooltip="align tiddlers vertically">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-horizontal" $value="no"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!view-horizontal}}
+</$button>
+</$reveal>

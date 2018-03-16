@@ -1,0 +1,20 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!vertical-align-bottom}} align tiddlers to the top or the bottom
+created: 20171224151228341
+description: align tiddlers to the top or the bottom
+modified: 20180316131704603
+tags: $:/tags/LeftBar $:/tags/PageControls
+title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-top-bottom
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-bottom" type="nomatch" text="yes">
+<$button class="tc-btn-invisible" tooltip="tiddlers aligned to the top">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-bottom" $value="yes"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!vertical-align-top}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-bottom" type="match" text="yes">
+<$button class="tc-btn-invisible" tooltip="tiddlers aligned to the bottom">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-bottom" $value="no"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!vertical-align-bottom}}
+</$button>
+</$reveal>

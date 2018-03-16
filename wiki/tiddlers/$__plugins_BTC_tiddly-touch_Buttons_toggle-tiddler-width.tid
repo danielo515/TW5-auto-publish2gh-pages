@@ -1,0 +1,90 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!columns-6}} cycle through 6 tiddler widths
+created: 20180120144951684
+description: cycle through 6 different widths for the current tiddler
+list: 6 5 4 3 2 1 0
+modified: 20180316131704384
+tags: $:/tags/ViewTemplate $:/tags/EditTemplate
+title: $:/plugins/BTC/tiddly-touch/Buttons/toggle-tiddler-width
+type: text/vnd.tiddlywiki
+
+\define columnicons()
+{{$:/plugins/BTC/tiddly-touch/icons!!columns-$(tiddlerWidth)$}}
+\end
+\define next-tiddler-action()
+<$list filter="[[$(nextValue)$]regexp[^(1|2|3|4|5|6|7|8|9|10|11|12)$]]">
+<$action-setfield $tiddler="""$(nextStoryTiddler)$""" $field="muuri-tiddler-width" $value="$(nextNextValue)$" $timestamp="no"/>
+</$list>
+<$list filter="[[$(nextValue)$]regexp[^0$]]">
+<$set name="columnCount" value={{$:/plugins/BTC/tiddly-touch/config!!column-count}}>
+<$set name="remainingSpace" filter="1 3 2 8 9 7 5 6 4 10 +[nth<columnCount>]">
+<$action-setfield $tiddler="""$(nextStoryTiddler)$""" $field="muuri-tiddler-width" $value=<<remainingSpace>> $timestamp="no"/>
+</$set>
+</$set>
+</$list>
+<$list filter="[[$(nextValue)$]!regexp[^(0|1|2|3|4|5|6|7|8|9|10|11|12)$]]">
+<$action-setfield $tiddler="""$(nextStoryTiddler)$""" $field="muuri-tiddler-width" $value="7" $timestamp="no"/>
+</$list>
+\end
+\define enslave-next-tiddler-button()
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!adjacent-tiddler-width" type="nomatch" text="yes">
+<$button class="tc-btn-invisible tc-toolbar-icon tc-toolbar-icon-topleft-2" tooltip="enslave $(nextStoryTiddler)$">
+<$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="adjacent-tiddler-width" $value="yes"/>
+{{$:/plugins/BTC/tiddly-touch/icons!!dot}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!adjacent-tiddler-width" type="match" text="yes">
+<$button class="tc-btn-invisible tc-toolbar-icon tc-toolbar-icon-topleft-2 tc-selected blue-icon" tooltip="free $(nextStoryTiddler)$">
+<$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="adjacent-tiddler-width" $value="no"/>
+{{$:/plugins/BTC/tiddly-touch/icons!!dot}}
+</$button>
+</$reveal>
+\end
+\define toggle-tiddler-width()
+<span class="tc-topleft-span">
+<$list filter="[[$(storyTiddler)$]next[$:/StoryList]]" variable="nextStoryTiddler">
+<$set name="tiddlerWidth" filter="[[$(storyTiddler)$]has[muuri-tiddler-width]get[muuri-tiddler-width]regexp[^(0|1|2|3|4|5|6)$]] [[$(storyTiddler)$]has[muuri-tiddler-width]get[muuri-tiddler-width]!regexp[^(0|1|2|3|4|5|6)$]addprefix[0]] [[$(storyTiddler)$]!has[muuri-tiddler-width]addprefix[0]removesuffix[$(storyTiddler)$]]">
+<$set name="nextValue" filter="[<tiddlerWidth>next[$:/plugins/BTC/tiddly-touch/Buttons/toggle-tiddler-width]]">
+<$set name="nextNextValue" filter="0 4 3 2 8 6 +[nth<nextValue>]">
+<$button class="tc-btn-invisible tc-toolbar-icon tc-toolbar-icon-topleft" tooltip="toggle tiddler width">
+<$list filter="[<tiddlerWidth>!regexp[^0$]]">
+<$action-setfield $tiddler="""$(storyTiddler)$""" $field="muuri-tiddler-width" $value=<<nextValue>> $timestamp="no"/>
+<$list filter="[[$:/plugins/BTC/tiddly-touch/config]get[adjacent-tiddler-width]regexp[^yes$]]">
+<$list filter="[<nextStoryTiddler>!regexp[^$]]">
+<<next-tiddler-action>>
+</$list>
+</$list>
+</$list>
+<$list filter="[<tiddlerWidth>regexp[^0$]]">
+<$action-setfield $tiddler="""$(storyTiddler)$""" $field="muuri-tiddler-width" $value="6" $timestamp="no"/>
+<$list filter="[[$:/plugins/BTC/tiddly-touch/config]get[adjacent-tiddler-width]regexp[^yes$]]">
+<$list filter="[<nextStoryTiddler>!regexp[^$]]">
+<<next-tiddler-action>>
+</$list>
+</$list>
+</$list>
+<<columnicons>>
+</$button>
+</$set></$set></$set>
+<<enslave-next-tiddler-button>>
+</$list>
+<$set name="storyListCount" filter="[list[$:/StoryList]count[]]">
+<$list filter="[list[$:/StoryList]nth<storyListCount>regexp[$(storyTiddler)$]]">
+<$set name="tiddlerWidth" filter="[[$(storyTiddler)$]has[muuri-tiddler-width]get[muuri-tiddler-width]regexp[^(0|1|2|3|4|5|6)$]] [[$(storyTiddler)$]has[muuri-tiddler-width]get[muuri-tiddler-width]!regexp[^(0|1|2|3|4|5|6)$]addprefix[0]] [[$(storyTiddler)$]!has[muuri-tiddler-width]addprefix[0]removesuffix[$(storyTiddler)$]]">
+<$set name="nextValue" filter="[<tiddlerWidth>next[$:/plugins/BTC/tiddly-touch/Buttons/toggle-tiddler-width]]">
+<$button class="tc-btn-invisible tc-toolbar-icon tc-toolbar-icon-topleft" tooltip="toggle tiddler width">
+<$list filter="[<tiddlerWidth>!regexp[^0$]]">
+<$action-setfield $tiddler="""$(storyTiddler)$""" $field="muuri-tiddler-width" $value=<<nextValue>> $timestamp="no"/>
+</$list>
+<$list filter="[<tiddlerWidth>regexp[^0$]]">
+<$action-setfield $tiddler="""$(storyTiddler)$""" $field="muuri-tiddler-width" $value="6" $timestamp="no"/>
+</$list>
+<<columnicons>>
+</$button>
+</$set></$set>
+</$list>
+</$set>
+</span>
+\end
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!topleft-width-button" type="nomatch" text="no">
+<<toggle-tiddler-width>>
+</$reveal>

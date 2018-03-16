@@ -1,0 +1,47 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!drag-button}} toggle dragging
+created: 20171224145410886
+description: toggle dragging on/off
+modified: 20180316131704809
+tags: $:/tags/LeftBar $:/tags/ViewToolbar
+title: $:/plugins/BTC/tiddly-touch/Buttons/toggle-drag
+type: text/vnd.tiddlywiki
+
+\define before-actions()
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/>
+\end
+\define after-actions()
+<$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>
+\end
+\define set-dragging-yes-no(yesno)
+<<before-actions>><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="drag-enabled" $value="$yesno$"/><<after-actions>>
+\end
+\define getStoryListIndex(yesno)
+<$set name="storyCount" filter="[list[$:/StoryList]count[]]">
+<$list filter="[list[$:/plugins/BTC/tiddly-touch/lists/numbers]limit<storyCount>]">
+<$list filter="[list[$:/StoryList]nth<currentTiddler>title[$(scrollTiddler)$]]" variable="scrollTiddlerIndex">
+<<set-dragging-yes-no $yesno$>>
+</$list>
+</$list>
+</$set>
+\end
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!drag-enabled" type="nomatch" text="yes">
+<$button class="tc-btn-invisible tc-dragging-button" tooltip="enable dragging">
+<$set name="scrollTiddler" value=<<storyTiddler>>>
+<$set name="storyList" filter="[list[$:/StoryList]]">
+<<set-dragging-yes-no yes>>
+</$set>
+</$set>
+{{$:/plugins/BTC/tiddly-touch/icons!!drag-button}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!drag-enabled" type="match" text="yes">
+<$button class="tc-btn-invisible tc-selected tc-dragging-button" tooltip="disable dragging">
+<$set name="scrollTiddler" value=<<storyTiddler>>>
+<$set name="storyList" filter="[list[$:/StoryList]]">
+<<set-dragging-yes-no no>>
+</$set>
+</$set>
+{{$:/plugins/BTC/tiddly-touch/icons!!drag-button}}
+</$button>
+</$reveal>

@@ -1,0 +1,54 @@
+adjacent-tiddler-width: no
+adjacent-tiddler-width-user: no
+align-bottom: no
+align-bottom-user: yes
+align-horizontal: no
+align-right: no
+align-right-user: yes
+animation-duration: 400
+child-class: tc-tiddler-frame
+column-count: 3
+created: 20171223072521383
+drag-enabled: no
+drag-sort: yes
+drag-sort-action: move
+drag-sort-action-user: yes
+drag-sort-threshold: 40
+fill-gaps: yes
+fill-gaps-user: no
+hide-controls: no
+hide-duration: 200
+hide-leftbar: no
+hide-tags: no
+hide-titles: no
+modified: 20180316132022912
+muuri-list: [[The map]] [[What about you?]] [[What is this map?]] [[A New Spin on the Quantum Brain]] [[More on the Map]]
+muuri-view: no
+muuri-view-pagetemplate: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
+previous-sidebar: yes
+previous-sidebarlayout: fixed-fluid
+previous-storyview: classic
+right-grid: show
+right-grid-width: 2
+seamless: no
+show-duration: 200
+sidebar-new-window: no
+slider-width-value: 58
+spreadsheet-view: no
+tiddler-opacity: e6
+tiddly-list: [[The map]] [[What about you?]] [[What is this map?]] [[A New Spin on the Quantum Brain]] [[More on the Map]]
+tiddly-previous-sidebar: yes
+tiddly-previous-view: 
+tiddly-sidebar-layout: fluid-fixed
+tiddly-sidebar-state: yes
+tiddly-story-list: 
+tiddly-story-view: classic
+tiddly-view: no
+tiddly-view-pagetemplate: $:/core/ui/PageTemplate/story
+title: $:/plugins/BTC/tiddly-touch/config
+topleft-width-button: yes
+topleft-width-button-user: no
+type: text/vnd.tiddlywiki
+vertical-toolbar: yes
+vertical-toolbar-user: no
+
