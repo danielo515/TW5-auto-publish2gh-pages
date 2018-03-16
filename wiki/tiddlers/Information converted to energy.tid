@@ -1,0 +1,13 @@
+created: 20180313135150845
+modified: 20180314195108902
+tags: content article 2010 energy information
+title: Information converted to energy
+tmap.edges: {"c557e497-f21e-4dee-97a6-1c472fa37866":{"to":"7cc4b9b1-fc88-4281-a2d7-e27ec6339b00","type":"deals with"},"623f096e-bfb7-4c7b-80c6-59e9b178d5e8":{"to":"2a98efdb-39e0-4077-9c68-2bafe3c4a9b3","type":"deals with"}}
+tmap.id: 8ac1ff5c-2fdd-4504-9677-af2ae0ba209f
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+<<image-left "information converted to energy.jpg">>"""[[Information converted to energy|https://physicsworld.com/a/information-converted-to-energy/]] 
+''physicsworld.com | 2010''
+
+Physicists in Japan have shown experimentally that a particle can be made to do work simply by receiving information, rather than energy. They say that their demonstration, which uses a feedback system to control the electric potential of tiny polystyrene beads, does not violate the second law of thermodynamics and could in future lead to new types of microscopic devices.

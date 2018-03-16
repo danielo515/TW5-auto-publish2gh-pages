@@ -1,0 +1,33 @@
+created: 20171113175754780
+list-after: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
+modified: 20180316162023666
+tags: $:/tags/PageTemplate
+title: $:/plugins/BTC/tiddly-touch/PageTemplate/LeftBar
+type: text/vnd.tiddlywiki
+
+\define config-title()
+$:/config/PageControlButtons/Visibility/$(listItem)$
+\end
+\define leftbar-config-title()
+$:/config/LeftBarButtons/Visibility/$(listItem)$
+\end
+
+<div class="tc-leftbar">
+
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]!title[$:/core/ui/Buttons/save-wiki]]" variable="listItem">
+<$reveal type="nomatch" state=<<config-title>> text="hide">
+<$set name="tv-config-toolbar-class" filter="[<tv-config-toolbar-class>] [<listItem>encodeuricomponent[]addprefix[tc-btn-]]">
+<$transclude tiddler=<<listItem>> mode="inline"/>
+</$set>
+</$reveal>
+</$list>
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/LeftBar]!has[draft.of]]" variable="listItem">
+<$reveal type="nomatch" state=<<leftbar-config-title>> text="hide">
+<$set name="tv-config-toolbar-class" filter="[<tv-config-toolbar-class>] [<listItem>encodeuricomponent[]addprefix[tc-btn-]]">
+<$transclude tiddler=<<listItem>> mode="inline"/>
+</$set>
+</$reveal>
+</$list>
+{{$:/plugins/BTC/tiddly-touch/Buttons/sidebar}}
+
+</div>

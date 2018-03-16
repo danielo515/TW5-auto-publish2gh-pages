@@ -1,0 +1,10 @@
+created: 20180316154825453
+modified: 20180316155125985
+tags: howto tiddlywiki
+title: Play with TiddlyMap
+tmap.id: 3e7330b0-a69f-41de-9633-2c142fd72d54
+type: text/vnd.tiddlywiki
+
+To edit the TiddlyMap you have to leave the muuri-storyview by clicking the 6th icon in the left toolbar. You will then see the map in one of the tabs on the right half of the screen.
+
+In this view you have a whole bunch of options. You can create, edit or delete nodes as well as edges (what you can also do from the Tiddlers) but you can also change settings for TiddlyMap in general or for this view. You can manage node-styles and edge-styles and change the physics-settings of the view.

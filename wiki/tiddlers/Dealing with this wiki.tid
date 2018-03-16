@@ -1,0 +1,24 @@
+created: 20180305224355378
+modified: 20180313192534852
+tags: howto wiki
+title: Dealing with this wiki
+tmap.id: a1e773d7-464b-49a1-9049-dbd368e9f883
+type: text/vnd.tiddlywiki
+
+"""
+__I want to customize the map for myself.__
+You can download the html and edit it in your browser.
+For saving changes I recommend using TiddlyDesktop.
+But the map tends to be quite slow in the one-file-wiki,
+so I want to lay out another possibility.
+If you install node.js on your local windows computer 
+you can run TiddlyWiki distributed via its distinct Tiddlers.
+Go to https://nodejs.org/ and install node.js
+Go to github and fork yourself (like a tree-branch) a copy
+of my wiki. Save it on your computer and open cmd.exe
+Type the following:
+npm install - tiddlywiki
+
+Check installation by typing:
+tiddlywiki --version
+

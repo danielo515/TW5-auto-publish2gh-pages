@@ -1,0 +1,20 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!format-align-right}} align tiddlers to the left or the right
+created: 20171224144532966
+description: align tiddlers to the left or the right
+modified: 20180316162023673
+tags: $:/tags/LeftBar $:/tags/PageControls
+title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-left-right
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-right" type="nomatch" text="yes">
+<$button class="tc-btn-invisible" tooltip="tiddlers aligned left">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-right" $value="yes"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!format-align-left}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!align-right" type="match" text="yes">
+<$button class="tc-btn-invisible" tooltip="tiddlers aligned right">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/configPageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="align-right" $value="no"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!format-align-right}}
+</$button>
+</$reveal>

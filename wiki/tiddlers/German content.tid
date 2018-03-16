@@ -1,0 +1,12 @@
+created: 20180316150107432
+modified: 20180316155715357
+tags: howto tiddlywiki
+title: German content
+tmap.id: 1265c9b3-f36a-48d8-99b9-9dad0c97ac07
+type: text/vnd.tiddlywiki
+
+Most of the content I find interesting is English, but there is some very good German content as well. 
+
+If you want to explore only the German content, the easiest way is invoke the [[Search function|$:/AdvancedSearch]] and search for the tag "deutsch". A more professional way would be to use the Filter tab and filter by [tag[deutsch]].
+
+If you would like to have a map displaying only German content, you can [[write me an email|mailto:samuel.wiechmann@gmail.com]].

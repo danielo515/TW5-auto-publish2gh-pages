@@ -1,0 +1,22 @@
+created: 20180307104617458
+modified: 20180307105350903
+tags: tiddlywiki howto
+title: Improve this Wiki
+tmap.id: e523c5d9-6c5a-4aeb-90d1-f9b7838eade4
+type: text/vnd.tiddlywiki
+
+Anyone can submit improvements to this Wiki that appears on https://samuelwiechmann.github.io/understand2/. (For improvements to the core code a more complicated process must be used because of the need to test the changes both in the browser and under Node.js before submission).
+
+# Create an account on https://github.com if you don't already have one
+# On https://samuelwiechmann.github.io/understand2/, click "edit" on the Tiddler you want to improve
+# You should see a pink banner with the text: Can you help improve this Wiki? Find out how to edit this tiddler on GitHub
+# Click on the external link ...''this tiddler on ~GitHub''
+## You will be prompted that "you need to fork this repository to propose changes". A "fork" is your own copy of the repository that incorporates the changes you are proposing
+# A new browser tab should open ready to edit the tiddler on github.com
+# Below the edit box for the tiddler text you should see a box labelled ''Propose file change''
+# Enter a brief title to explain the change (eg, "Clarify attribute syntax instability")
+# If necessary, enter a longer description too
+# Click the green button labelled ''Propose file change''
+# On the following screen, click the green button labelled ''Create pull request''
+
+I will then have the opportunity to merge your pull request so that it is incorporated into the next build of https://samuelwiechmann.github.io/understand2/

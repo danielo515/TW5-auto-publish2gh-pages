@@ -1,0 +1,13 @@
+created: 20180313151303697
+modified: 20180314200320822
+tags: content video 2016 physics quantummechanics
+title: Is This What Quantum Mechanics Looks Like?
+tmap.edges: {"6618e80e-700f-4877-b512-12ff61434382":{"to":"5a16cab5-918d-4280-a28a-2060bf3cd25f","type":"deals with"}}
+tmap.id: eeb78e42-b0ae-4936-b6de-abc8214f228b
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+<<image-left "is this what quantum mechanics looks like.PNG">>
+"""[[Is This What Quantum Mechanics Looks Like?|https://youtu.be/WIyTZDHuarQ]]
+''2016 | Veritasium | Youtube | 8 min'' 
+The standard theory of quantum mechanics leaves a bit to be desired. As Richard Feynman put it, “I think I can safely say that no one understands quantum mechanics.” This is because observations of experiments have led us to a theory that contradicts common sense. The wave function contains all the information that is knowable about a particle, yet it can only be used to calculate probabilities of where a particle will likely turn up. It can’t give us an actual account of where the particle went or where it will be at some later time.

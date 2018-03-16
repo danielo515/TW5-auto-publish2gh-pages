@@ -1,0 +1,9 @@
+created: 20180313234208167
+modified: 20180316130319592
+tags: wiki howot introduction
+title: More on the Map
+tmap.id: 6b97f94d-2b08-402c-8bcb-e951696d8411
+type: text/vnd.tiddlywiki
+
+By the way, if your computer is fast enough you can dare to switch on the "floating nodes"-option. Just open the Maps menu, click "Configure View" and under the "Layout"-Tab activate "Floating nodes".
+You will then be able to drag around one node while dragging connected nodes with it. You can also play with the physics configuration in the map or in [[this Demo|http://visjs.org/examples/network/physics/physicsConfiguration.html]].

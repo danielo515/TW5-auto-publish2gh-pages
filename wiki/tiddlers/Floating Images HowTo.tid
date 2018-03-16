@@ -1,0 +1,53 @@
+created: 20150320130409526
+modified: 20180314193712211
+tags: floating-images
+title: Floating Images HowTo
+tmap.id: c28e5d06-3d45-4515-8c31-9bb0fbb11831
+type: text/vnd.tiddlywiki
+
+There is a wikitext syntax for images eg: `[img[Motovun Jack.jpg]]`. But what if I want to center the image. Or if I want the image left or right aligned and the text should flow around the image. 
+
+There are 3 macros now.
+
+* `<<image-left "Motovun Jack.jpg">>`
+* `<<image-center "Motovun Jack.jpg">>`
+* `<<image-right "Motovun Jack.jpg">>`
+
+<<image-left "Motovun Jack.jpg" caption:"//floating image//">>
+
+```
+<<image-left "Motovun Jack.jpg">>
+```
+Activates a `float-left` CSS rule for the image container. 
+
+If you want to add a caption to the image, just use: 
+
+```
+<<image-left "Motovun Jack.jpg" caption:"//floating image//">>
+```
+
+@@.image-text
+As you can see, inline formatting rules can be used. 
+@@
+
+The image below will be centred and slightly bigger. There is no text flow around the image. The macro is used like this:
+
+```
+<<image-center "Motovun Jack.jpg" caption:"centered image" width:"50%">>
+```
+
+<<image-center "Motovun Jack.jpg" caption:"centered image" width:"50%">>
+
+<<image-right "Motovun Jack.jpg" caption:"''float right''" tooltip:"Motovun Jack - The TiddlyWiki Mascot">>
+
+This image uses:
+
+```
+<<image-right "Motovun Jack.jpg" caption:"''float right''" tooltip:"Motovun Jack - The TiddlyWiki Mascot">>
+```
+
+@@.image-text
+Since "float-left" and "float-right" CSS rules have some effects on the text flow, we need a mechanism, that disables this effect. 
+So we need to assign a special class to the last paragraph of this page: eg: `@@.image-text ... @@`
+@@
+

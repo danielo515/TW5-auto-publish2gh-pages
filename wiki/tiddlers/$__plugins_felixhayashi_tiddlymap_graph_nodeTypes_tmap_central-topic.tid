@@ -1,0 +1,8 @@
+created: 20180306101803997
+description: The style is applied to the node that you marked as central topic in a map.
+modified: 20180306101803997
+priority: 1
+style: {"font":{"size":22,"color":"rgba(0,0,0,1)"},"shape":"star"}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tmap:central-topic
+type: text/vnd.tiddlywiki
+

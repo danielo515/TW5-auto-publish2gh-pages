@@ -1,0 +1,8 @@
+created: 20180306145731691
+modified: 20180313103416035
+priority: 1
+scope: [tag[applied]tag[science]]
+style: {"color":{"border":"rgba(135,132,137,1)","background":"rgba(231,237,234,1)"},"font":{}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:appliedscience
+type: text/vnd.tiddlywiki
+

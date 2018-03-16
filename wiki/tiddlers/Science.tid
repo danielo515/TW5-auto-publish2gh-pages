@@ -1,0 +1,9 @@
+created: 20180222130616820
+modified: 20180313102747202
+tags: science topic 1
+title: Science
+tmap.edges: {"ed1a1635-6b80-4ad4-8237-91815b4138d0":{"to":"8bff418c-dadb-4472-9dc0-208a2ffd0038","type":"represents"},"d82d9397-b779-4fcf-815d-0c7fe9df8432":{"to":"838a03ec-ac34-41b5-b224-f8f95e599bb2","type":"has little to do with"},"3845c5ae-0e04-47de-9c43-8f7ba959ca4f":{"to":"651a5bde-eefc-4903-94f6-b8e3d1b1eb38","type":"subclass of"}}
+tmap.id: 245a2020-d4d5-4d7e-a5aa-eb5cdc9b2f43
+tmap.style: {"color":{}}
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,8 @@
+created: 20180228232514845
+modified: 20180307202034917
+tags: organism 1 topic nature life
+title: Animals
+tmap.edges: {"f4f9496f-3ba9-4004-bbcc-eb596aad3968":{"to":"d60c6912-4ee6-464f-a3a4-1b207c255154","type":"subclass of"},"e229edaf-b44a-4689-a4e5-87d6099f945f":{"to":"e1c604fc-8332-4520-b622-e6efdeeadd21","type":"eat"},"bfe18154-b97e-4011-9e05-a60f6323e6e0":{"to":"14f23f1a-c07b-4f33-a980-bed27fc4a436","type":"subclass of"}}
+tmap.id: ae48562b-93dc-4627-898e-5b359e628b93
+type: text/vnd.tiddlywiki
+

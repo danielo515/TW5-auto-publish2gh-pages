@@ -1,0 +1,20 @@
+caption: {{$:/plugins/BTC/tiddly-touch/icons!!view-quilt}} toggle gaps-filling
+created: 20171224154814593
+description: toggle if muuri should fill gaps or not
+modified: 20180316162023680
+tags: $:/tags/LeftBar $:/tags/PageControls
+title: $:/plugins/BTC/tiddly-touch/Buttons/fill-gaps
+type: text/vnd.tiddlywiki
+
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!fill-gaps" type="nomatch" text="yes">
+<$button class="tc-btn-invisible" tooltip="fill gaps on">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="fill-gaps" $value="yes"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!view-quilt}}
+</$button>
+</$reveal>
+<$reveal state="$:/plugins/BTC/tiddly-touch/config!!fill-gaps" type="match" text="yes">
+<$button class="tc-btn-invisible tc-toolbar-icon tc-selected" tooltip="fill gaps off">
+<$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri">
+<$action-sendmessage $message="tm-remove-tag" $param="$:/tags/PageTemplate"/></$fieldmangler><$action-setfield $tiddler="$:/view" $value=""/><$action-setfield $tiddler="$:/plugins/BTC/tiddly-touch/config" $field="fill-gaps" $value="no"/><$action-setfield $tiddler="$:/view" $value="muuri"/><$fieldmangler tiddler="$:/plugins/BTC/tiddly-touch/PageTemplate/muuri"><$action-sendmessage $message="tm-add-tag" $param="$:/tags/PageTemplate"/></$fieldmangler>{{$:/plugins/BTC/tiddly-touch/icons!!view-quilt}}
+</$button>
+</$reveal>

@@ -1,0 +1,9 @@
+config.raster: 100
+config.vis: {"physics":{"forceAtlas2Based":{"damping":1}}}
+created: 20180314114403098
+id: 285dc535-29de-43ae-baa1-19c87a8b2848
+isview: true
+modified: 20180314114407381
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/content
+type: text/vnd.tiddlywiki
+

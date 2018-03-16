@@ -1,0 +1,25 @@
+created: 20180118195806654
+modified: 20180316162023579
+tags: $:/tags/PageTemplate
+title: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
+type: text/vnd.tiddlywiki
+
+<section class="tc-story-river">
+
+<$muuri target={{$:/plugins/BTC/tiddly-touch/config!!child-class}} target-is-tiddler="yes" fill-gaps={{$:/plugins/BTC/tiddly-touch/config!!fill-gaps}} horizontal={{$:/plugins/BTC/tiddly-touch/config!!align-horizontal}} align-right={{$:/plugins/BTC/tiddly-touch/config!!align-right}} align-bottom={{$:/plugins/BTC/tiddly-touch/config!!align-bottom}} dragging={{$:/plugins/BTC/tiddly-touch/config!!drag-enabled}}>
+
+<$list filter="[list[$:/StoryList]]" history="$:/HistoryList" template="$:/plugins/BTC/tiddly-touch/ui/ViewTemplate" editTemplate="$:/plugins/BTC/tiddly-touch/ui/EditTemplate" storyview={{$:/view}} emptyMessage={{$:/config/EmptyStoryMessage}}/>
+
+</$muuri>
+
+<section class="story-frontdrop">
+
+<$list filter="[all[shadows+tiddlers]tag[$:/tags/BelowStory]!has[draft.of]]">
+
+<$transclude/>
+
+</$list>
+
+</section>
+
+</section>

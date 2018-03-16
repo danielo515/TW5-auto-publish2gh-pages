@@ -1,0 +1,17 @@
+created: 20180312144750246
+modified: 20180312154508809
+tags: 
+title: How should I use TiddlyWiki?
+tmap.id: 3a78fef3-ba50-4b3a-a377-24c796a23acc
+type: text/vnd.tiddlywiki
+
+This depends on what you want to do.
+Follow this chart to find your way.
+
+|!I want to |!this wiki |!an empty wiki |
+|!Play with |go for it! |[[go here|https://tiddlywiki.com/]]|
+|!Save changes to|save changes button|[[go here|https://tiddlywiki.com/#GettingStarted]]|<|
+|!Use offline |
+|!Use online |
+|!Collaborate on |
+|!Publish |

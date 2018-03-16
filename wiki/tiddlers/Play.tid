@@ -1,0 +1,18 @@
+created: 20180316135835358
+modified: 20180316152410160
+tags: howto tiddlywiki
+title: Play
+tmap.id: fe214e22-9dde-4bab-8f5e-b3b3a9df4b97
+type: text/vnd.tiddlywiki
+
+You can make changes right now to explore the functions of the wiki. However, these are only temporarily stored in your browser. To save changes, choose your method over at https://tiddlywiki.com/.
+
+The "export"-button will export and download this Tiddler in a format of your choice. 
+
+The "edit"-button will let you edit its content and show you what's behind the facade.
+
+The "close"-button will obviously close this Tiddler. You can find it again via the [[Search-function]].
+
+The "more"-button will give you even more actions while the "dragging"-button will let you enable/disable the drag-n-drop function of the muuri-storyview.
+
+If you leave the muuri-storyview, you will have the opportunity to [[Play with TiddlyMap]].

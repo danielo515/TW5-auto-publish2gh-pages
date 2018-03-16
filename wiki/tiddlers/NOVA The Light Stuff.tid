@@ -1,0 +1,14 @@
+created: 20180301133918636
+modified: 20180314203052593
+tags: content aviation research video flying
+title: NOVA The Light Stuff
+tmap.edges: {"436fd90c-dab0-452e-83ba-316df6e29034":{"to":"bff58151-6bc7-4e1d-904a-1127fe46e53e","type":"documents"},"12629196-83cf-4ad5-a8b8-2dfb3588aa65":{"to":"e864ecb4-1add-4fb5-9880-d14b5db29ccc","type":"instance of"},"936a094f-d3de-4c39-9500-cd73e929b1a3":{"to":"e17b93b9-e44a-4a48-a5c7-dc8291661978","type":"instance of"}}
+tmap.id: 308bfba1-c16e-46ab-8b4f-1f42f3718ec1
+tmap.style: {"font":{"size":7}}
+type: text/vnd.tiddlywiki
+
+<<image-left "NOVA The Light Stuff.PNG">>"""[[NOVA The Light Stuff|https://youtu.be/cZjHcjyLprw]]
+''MIT | 1986 | Youtube | 15 min''
+
+Part 1 of a great TV documentary about an ambitious project done by Professors and Students at MIT in the late 80s building a Human Powered Aircraft named Daedalus.
+"""

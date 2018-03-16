@@ -1,0 +1,8 @@
+created: 20180313094509280
+modified: 20180313094544936
+priority: 1
+scope: [tag[social]tag[science]]
+style: {"color":{"background":"rgba(230,238,252,1)","border":"rgba(140,165,198,1)"}}
+title: $:/plugins/felixhayashi/tiddlymap/graph/nodeTypes/tag:socialscience
+type: text/vnd.tiddlywiki
+

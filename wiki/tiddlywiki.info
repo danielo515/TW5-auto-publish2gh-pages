@@ -12,6 +12,7 @@
 	"languages": [
 		"en-US"
 	],
+	
 	"build": {
 		"index": [
 			"--rendertiddler","$:/plugins/tiddlywiki/tiddlyweb/save/offline","index.html","text/plain"],

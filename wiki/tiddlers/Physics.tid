@@ -1,0 +1,8 @@
+created: 20180228235827858
+modified: 20180307200938036
+tags: science topic physical 4
+title: Physics
+tmap.edges: {"31449ca7-bcfa-4130-be76-d7219ea985ad":{"to":"87f94bb0-7d28-412f-a5eb-7a0bcf671fc5","type":"subclass of"},"44e813f4-b219-4660-9cb7-64cfe71ab098":{"to":"09e8407e-2e4d-4a0a-b109-ba75b414dcbc","type":"uses"},"4ff5f512-df6c-4bdf-87d5-328c4cc13c65":{"to":"a20d1456-8947-45ff-b573-901b3d7879ab","type":"originates from"},"f9cad6c7-34ee-4cb3-9e18-b6fdb5cdb868":{"to":"47e4ad6c-ed92-44c2-9c3d-0c6f6b59a98f","type":"studies"},"f7696d38-31f3-48a9-a5d2-e8ded8333681":{"to":"49a398b1-5ed8-432c-9a21-57cd78ec50d6","type":"studies"},"4b728044-3f98-4d73-8600-e4f94df13200":{"to":"cf4e8d4d-c678-41b4-ade8-e1f442290549","type":"studies"},"d757bce4-d7df-48d1-a5b9-898c1c3c1868":{"to":"eb5064a6-1629-4945-a4d0-b025658c2663","type":"studies"}}
+tmap.id: a94709fb-de4b-4b7a-9637-f1514efddff2
+type: text/vnd.tiddlywiki
+
