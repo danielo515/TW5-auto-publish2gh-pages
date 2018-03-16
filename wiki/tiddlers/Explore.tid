@@ -1,11 +1,15 @@
 created: 20180307002349420
-modified: 20180307005304449
+modified: 20180316161002546
 tags: howto tiddlywiki
 title: Explore
 tmap.id: 52f4d6c2-fdf7-4fc9-978d-ecea38b2e942
 type: text/vnd.tiddlywiki
 
-You can make changes right now to explore the functions of the wiki. Editing Tiddlers should help you learn how the syntax works. Edits to the Wiki will only be stored inside your browser and can only be saved either by:
+You can explore content linked in the map by clicking a node to open the corresponding Tiddler and open the linked Websites if you're interested. Read more about [[Navigation]] or [[Content]].
 
-* downloading the wiki as a single-file html via the "save changes"-button in the top right toolbar or by
-* exporting the edited Tiddlers with the "export"-button in the Tiddler-toolbar.
+If you have trouble with the English language, I recommend using [[deepl|https://www.deepl.com/translator]] whenever you need to. But there is also a bit of [[German content]] to explore.
+
+If you want to search for something, just invoke the [[Search function|$:/AdvancedSearch]]
+
+
+

@@ -1,7 +1,7 @@
 caption: {{$:/plugins/BTC/tiddly-touch/icons!!view-quilt}} toggle gaps-filling
 created: 20171224154814593
 description: toggle if muuri should fill gaps or not
-modified: 20180316131704763
+modified: 20180316162023680
 tags: $:/tags/LeftBar $:/tags/PageControls
 title: $:/plugins/BTC/tiddly-touch/Buttons/fill-gaps
 type: text/vnd.tiddlywiki

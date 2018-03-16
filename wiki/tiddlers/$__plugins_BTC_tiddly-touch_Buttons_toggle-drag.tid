@@ -1,7 +1,7 @@
 caption: {{$:/plugins/BTC/tiddly-touch/icons!!drag-button}} toggle dragging
 created: 20171224145410886
 description: toggle dragging on/off
-modified: 20180316131704809
+modified: 20180316162023683
 tags: $:/tags/LeftBar $:/tags/ViewToolbar
 title: $:/plugins/BTC/tiddly-touch/Buttons/toggle-drag
 type: text/vnd.tiddlywiki

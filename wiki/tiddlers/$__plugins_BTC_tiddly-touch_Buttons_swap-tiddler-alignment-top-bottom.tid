@@ -1,7 +1,7 @@
 caption: {{$:/plugins/BTC/tiddly-touch/icons!!vertical-align-bottom}} align tiddlers to the top or the bottom
 created: 20171224151228341
 description: align tiddlers to the top or the bottom
-modified: 20180316131704603
+modified: 20180316162023589
 tags: $:/tags/LeftBar $:/tags/PageControls
 title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-top-bottom
 type: text/vnd.tiddlywiki

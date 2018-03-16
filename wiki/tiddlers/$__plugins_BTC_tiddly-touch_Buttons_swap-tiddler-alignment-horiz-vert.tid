@@ -1,7 +1,7 @@
 caption: {{$:/plugins/BTC/tiddly-touch/icons!!view-horizontal}} switch between vertical / horizontal
 created: 20180119121038549
 description: switch between vertical and horizontal view
-modified: 20180316131704760
+modified: 20180316162023677
 tags: $:/tags/LeftBar $:/tags/PageControls
 title: $:/plugins/BTC/tiddly-touch/Buttons/swap-tiddler-alignment-horiz-vert
 type: text/vnd.tiddlywiki

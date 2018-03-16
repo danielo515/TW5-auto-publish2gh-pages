@@ -1,4 +1,4 @@
-adjacent-tiddler-width: no
+adjacent-tiddler-width: yes
 adjacent-tiddler-width-user: no
 align-bottom: no
 align-bottom-user: yes
@@ -21,11 +21,11 @@ hide-duration: 200
 hide-leftbar: no
 hide-tags: no
 hide-titles: no
-modified: 20180316132022912
-muuri-list: [[The map]] [[What about you?]] [[What is this map?]] [[A New Spin on the Quantum Brain]] [[More on the Map]]
+modified: 20180316162023686
+muuri-list: [[The map]] [[What can I do?]]
 muuri-view: no
 muuri-view-pagetemplate: $:/plugins/BTC/tiddly-touch/PageTemplate/muuri
-previous-sidebar: yes
+previous-sidebar: 
 previous-sidebarlayout: fixed-fluid
 previous-storyview: classic
 right-grid: show
@@ -36,7 +36,7 @@ sidebar-new-window: no
 slider-width-value: 58
 spreadsheet-view: no
 tiddler-opacity: e6
-tiddly-list: [[The map]] [[What about you?]] [[What is this map?]] [[A New Spin on the Quantum Brain]] [[More on the Map]]
+tiddly-list: [[Understand the World]] [[What can I do?]]
 tiddly-previous-sidebar: yes
 tiddly-previous-view: 
 tiddly-sidebar-layout: fluid-fixed
