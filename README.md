@@ -2,7 +2,7 @@
 
 We all love Github pages. They are an easy,reliable and cheap way to host static sites. [TiddlyWiki](tiddlywiki.com) is a single page web application wiki that can be hosted as a single html file. It is an awesome unique application, and I strongly recommend you to check it out at [TiddlyWiki.com](tiddlywiki.com). The problem with it is that there is not an easy fast way to host a tiddlywiki file on github pages... until now. 
 
-This repository is **both a template and a set of instructions** to host a tiddlywiki on your own Github pages repository. Following this instructions you will be able to have your own wiki up and runing in less than 10 minutes **without** any `git` or Github Knowledge and **without installing** any software on your computer.
+This repository is **both a template and a set of instructions** to host a tiddlywiki on your own Github pages repository. Following this instructions you will be able to have your own wiki up and running in less than 10 minutes **without** any `git` or Github Knowledge and **without installing** any software on your computer.
 
 Using this work-flow has several advantages:
 1. Github pages are absolutely **free** and reliable
@@ -41,7 +41,7 @@ This are the steps required for the first time setup. Once you have completed al
 4. Make sure `repo` and `public_repo` options are selected
 5. Click on `Generate token`. Here is an overview of this step:
 ![Generate token](/../screenshots/github-token.png?raw=true)
-6. Github will generate an unique token. **Take note of it now because you will not have any other opportinity!!**
+6. Github will generate an unique token. **Take note of it now because you will not have any other opportunity!!**
 
 ## Creating the first wiki
 1. Fork this repository. This step will be necessary on every new wiki. As I have promised  you can do this directly from Github, just click the Fork button on the top righ corner of this repository page:
@@ -89,7 +89,7 @@ Once you have completed the first time setup, it is much easier to setup another
 8. Edit/add the required tiddlers and make a push. This can be done directly on github.
 
 # Editing tiddlers
-You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki sintax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
+You can just edit or add new tiddlers directly on github, which is quite comfortable, or you can use a markdown editor. Tiddlywiki syntax is not exactly markdown, but it is close enough to use it as a small reference and markdown editors usually helps you completing lists and provide preview.
 
 I recommend you to use prose, which is the tool I have used to edit this README:
 
@@ -105,7 +105,7 @@ I recommend you to use prose, which is the tool I have used to edit this README:
 
 
 ## Dilinger
-To edit markdown files you have a better alternative which is dillinger. The drawback of dilinger is that it only recognices `.md` files:
+To edit markdown files you have a better alternative which is dillinger. The drawback of dilinger is that it only recognizes `.md` files:
 
 1. visit https://dillinger.io/
 2. You can link it to github, so you can edit and save the files on your repository
